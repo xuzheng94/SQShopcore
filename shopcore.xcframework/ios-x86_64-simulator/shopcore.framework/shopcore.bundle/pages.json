@@ -1,0 +1,12 @@
+{
+    "pages": [
+        {
+            "url": "",
+            "defaultTitle": "",
+            "titleStyle": "custom"
+        }
+    ],
+    "tabbar": {
+
+    }
+}

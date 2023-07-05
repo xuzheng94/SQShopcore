@@ -1,0 +1,6 @@
+framework module shopcore {
+  umbrella header "shopcore.h"
+
+  export *
+  module * { export * }
+}

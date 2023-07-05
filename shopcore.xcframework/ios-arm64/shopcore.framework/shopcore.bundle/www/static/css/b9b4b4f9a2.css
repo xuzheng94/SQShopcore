@@ -1,0 +1,1 @@
+.my-evaluate .my-evaluate-pull-refresh{min-height:100vh;background-color:#f5f6f8}@supports (bottom:constant(safe-area-inset-bottom)) or (bottom:env(safe-area-inset-bottom)){.my-evaluate{padding-bottom:constant(safe-area-inset-bottom);padding-bottom:env(safe-area-inset-bottom);background-color:#f5f6f8}}

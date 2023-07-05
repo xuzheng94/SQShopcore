@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.hello" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="CDVWebViewEngine">
+        <param name="ios-package" value="CDVWebViewEngine" />
+    </feature>
+<!--    <feature name="LaunchScreen">-->
+<!--        <param name="ios-package" value="CDVLaunchScreen" />-->
+<!--    </feature>-->
+    <feature name="LocalStorage">
+        <param name="ios-package" value="CDVLocalStorage" />
+    </feature>
+    <feature name="Console">
+        <param name="ios-package" value="CDVLogger" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="HandleOpenUrl">
+        <param name="ios-package" value="CDVHandleOpenURL" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="JslibInjection">
+        <param name="ios-package" value="JslibInjectionPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="IntentAndNavigationFilter">
+        <param name="ios-package" value="CDVIntentAndNavigationFilter" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="GestureHandler">
+        <param name="ios-package" value="CDVGestureHandler" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>HelloWorld</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="http:*" />
+    <allow-navigation href="https:*" />
+    <allow-navigation href="file:*" />
+    <allow-navigation href="about:*" />
+<!--    <allow-intent href="http://*/*" />-->
+<!--    <allow-intent href="https://*/*" />-->
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="itms:*" />
+    <allow-intent href="itms-apps:*" />
+<!--    <allow-intent href="weixin:*" />-->
+<!--    <allow-intent href="alipay:*" />-->
+<!-- 八达通   <allow-intent href="octopus://*" />-->
+    <allow-intent href="*://*" />
+    <preference name="AllowNewWindows" value="false" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="MediaPlaybackAllowsAirPlay" value="false" />
+    <preference name="AllowBackForwardNavigationGestures" value="true" />
+    <preference name="Allow3DTouchLinkPreview" value="false" />
+    <preference name="BackupWebStorage" value="cloud" />
+    <preference name="DisallowOverscroll" value="false" />
+    <preference name="EnableViewportScale" value="false" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+    <preference name="MediaTypesRequiringUserActionForPlayback" value="none" />
+    <preference name="SuppressesIncrementalRendering" value="false" />
+    <preference name="SuppressesLongPressGesture" value="false" />
+    <preference name="Suppresses3DTouchGesture" value="false" />
+    <preference name="GapBetweenPages" value="0" />
+    <preference name="PageLength" value="0" />
+    <preference name="PaginationBreakingMode" value="page" />
+    <preference name="PaginationMode" value="unpaginated" />
+    <preference name="AppendUserAgent" value="SHOP2CNCOM" />
+    <feature name="Device">
+        <param name="ios-package" value="CDVDevice" />
+    </feature>
+    
+    <feature name="CordovaHttpPlugin">
+        <param name="ios-package" value="CordovaHttpPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="JsBridge">
+        <param name="ios-package" value="JsBridgePlugin" />
+    </feature>
+    <feature name="JsMediaBridge">
+        <param name="ios-package" value="JsMediaBridgePlugin" />
+    </feature>
+    <feature name="JsSABridgePlugin">
+        <param name="ios-package" value="JsSABridgePlugin" />
+    </feature>
+    <feature name="CDVSchemePlugin">
+        <param name="ios-package" value="CDVSchemePlugin" />
+        <param name="onload" value="true" />
+    </feature>
+</widget>
