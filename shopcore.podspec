@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name             = "shopcore"   
+    s.name             = "Shopcore"   
     s.version          = "1.3.0"    
     s.summary          = "1.3.0 Version"  
     s.description  = "SQ ShopCore"
