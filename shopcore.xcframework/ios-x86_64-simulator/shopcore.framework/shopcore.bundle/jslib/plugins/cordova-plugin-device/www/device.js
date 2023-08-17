@@ -46,6 +46,9 @@ function Device () {
     this.isVirtual = null;
     this.serial = null;
     this.statusBarHeight = null;
+    this.appid = null;
+    this.appname = null;
+    this.appversion = null;
 
     var me = this;
 
@@ -64,6 +67,9 @@ function Device () {
             me.manufacturer = info.manufacturer || 'unknown';
             me.serial = info.serial || 'unknown';
             me.statusBarHeight = info.statusBarHeight || 0;
+            me.appid = info.appid;
+            me.appname = info.appname;
+            me.appversion = info.appversion;
             channel.onCordovaInfoReady.fire();
         }, function (e) {
             me.available = false;

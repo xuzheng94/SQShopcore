@@ -49,8 +49,8 @@ MiniProgram.prototype.getEnv = function() {
 }
 
 // 发送消息给宿主
-MiniProgram.prototype.postMessage = function() {
-
+MiniProgram.prototype.postMessage = function(obj) {
+    plus.jsbridge.postMessage(obj)
 }
 
 Api.prototype.miniProgram = new MiniProgram()

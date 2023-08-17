@@ -39,6 +39,10 @@ JsBridge.prototype.reLaunch = function(url) {
 JsBridge.prototype.redirectTo = function(url) {
     exec(res=>{}, err => {}, 'JsBridge', 'redirectTo', [url]);
 }
+    
+JsBridge.prototype.postMessage = function(url) {
+    exec(res=>{}, err => {}, 'JsBridge', 'postMessage', [url]);
+}
 
 JsBridge.prototype.requestPayment = function(obj) {
     exec(res=>{

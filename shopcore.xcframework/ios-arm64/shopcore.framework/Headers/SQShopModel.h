@@ -11,6 +11,7 @@ typedef enum {
     SQ_SHOP_PAGE_CART = 1,
     SQ_SHOP_PAGE_ORDERLIST = 2,
     SQ_SHOP_PAGE_PRODUCT = 3,
+    SQ_SHOP_MICRO_HOME = 4,
 } SQ_SHOP_PAGE;
 
 @interface SQShopModel : NSObject

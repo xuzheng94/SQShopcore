@@ -72,6 +72,9 @@ typedef enum {
                  thumbImage:(UIImage* )thumbImage;
                                 
 
++ (void)postSwithTab:(NSDictionary *)obj;
++ (void)postLogin:(NSDictionary *)obj;
+
 @end
 
 NS_ASSUME_NONNULL_END

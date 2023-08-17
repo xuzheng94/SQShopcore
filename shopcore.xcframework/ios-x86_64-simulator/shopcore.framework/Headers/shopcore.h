@@ -19,7 +19,8 @@ FOUNDATION_EXPORT const unsigned char shopcoreVersionString[];
 #import <shopcore/NavigationManager.h>
 #import <shopcore/ShopCoreManager.h>
 
-
+#import <shopcore/SQShopConfig.h>
+#import <shopcore/SQSsoModel.h>
 #import <shopcore/SQShopModel.h>
 #import <shopcore/SQShopApi.h>
 #import <shopcore/SQShopViewController.h>
