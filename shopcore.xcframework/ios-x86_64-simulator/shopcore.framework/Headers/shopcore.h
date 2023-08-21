@@ -16,11 +16,10 @@ FOUNDATION_EXPORT const unsigned char shopcoreVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <shopcore/PublicHeader.h>
 
 #import <shopcore/SPViewController.h>
+#import <shopcore/SQTabBarController.h>
 #import <shopcore/NavigationManager.h>
-#import <shopcore/ShopCoreManager.h>
 
 #import <shopcore/SQShopConfig.h>
 #import <shopcore/SQSsoModel.h>
-#import <shopcore/SQShopModel.h>
 #import <shopcore/SQShopApi.h>
 #import <shopcore/SQShopViewController.h>

@@ -42,7 +42,7 @@
 + (BOOL)isLogin;
 
 /// 实例化Tab页面
-+ (UITabBarController *)createPageTabs;
++ (SQTabBarController *)createPageTabs;
 
 /// 实例化微首页
 + (SPViewController *)createPageMicroHome;

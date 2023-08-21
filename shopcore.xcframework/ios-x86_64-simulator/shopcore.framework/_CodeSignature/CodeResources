@@ -104,13 +104,9 @@
 		<data>
 		GQ2oqXYbpjtjhU4D+/tNCttaQ3M=
 		</data>
-		<key>Headers/ConfigRequest.h</key>
-		<data>
-		rHtq/r+LwNP79cqFKyWwDjGvMDc=
-		</data>
 		<key>Headers/NavigationManager.h</key>
 		<data>
-		cTvrWTe8QtPcx64/CS7A7YAj5mE=
+		ST3njkNOQ9yRdnV4fMq9j26LM+U=
 		</data>
 		<key>Headers/SPViewController.h</key>
 		<data>
@@ -118,15 +114,11 @@
 		</data>
 		<key>Headers/SQShopApi.h</key>
 		<data>
-		fu515o0nQwklFlozqhzc8wHQYJ4=
+		g7Jqje0n3ej7Xcbyy7WtHTarvnc=
 		</data>
 		<key>Headers/SQShopConfig.h</key>
 		<data>
 		infa2n9os4sI3/jrlxziQbx3ll4=
-		</data>
-		<key>Headers/SQShopModel.h</key>
-		<data>
-		uUfCohB4GHS+59+rmbpr3glznCI=
 		</data>
 		<key>Headers/SQShopViewController.h</key>
 		<data>
@@ -136,17 +128,13 @@
 		<data>
 		a4LPnTMPQ3oDaVs7a7MYEroEYfs=
 		</data>
-		<key>Headers/ShopCoreManager.h</key>
+		<key>Headers/SQTabBarController.h</key>
 		<data>
-		oopQicWQhBH39cAjBUQkQLznhC4=
-		</data>
-		<key>Headers/TabBarController.h</key>
-		<data>
-		XqGCdp+c6wU7MpJ+cHTL2KyZy50=
+		SqYOK0hWCOjW6fH/m9dOGxTBJBQ=
 		</data>
 		<key>Headers/shopcore.h</key>
 		<data>
-		Wyb4bdEQQ/TYMznUs2ejpKO5yZs=
+		5AttPgTikclciy4WAv7fRH53oCI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -3220,26 +3208,15 @@
 			GV6PLx/qtjxEAqs2O2pGvXtQw4xaylnfuSXATNh9R9A=
 			</data>
 		</dict>
-		<key>Headers/ConfigRequest.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rHtq/r+LwNP79cqFKyWwDjGvMDc=
-			</data>
-			<key>hash2</key>
-			<data>
-			fZf5Lp395u3xd6V0c1JPmgEpctjo9l0Lh8TQNQlwVAo=
-			</data>
-		</dict>
 		<key>Headers/NavigationManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cTvrWTe8QtPcx64/CS7A7YAj5mE=
+			ST3njkNOQ9yRdnV4fMq9j26LM+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			foh6hEooeZa1V3U5uHPrRrA1WLYpixPnntGlwgO3gbM=
+			Y/lqNP0GQAAuP8ql+zySXKUhz2g0P4i8Xfe9Z/SZk8g=
 			</data>
 		</dict>
 		<key>Headers/SPViewController.h</key>
@@ -3257,11 +3234,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fu515o0nQwklFlozqhzc8wHQYJ4=
+			g7Jqje0n3ej7Xcbyy7WtHTarvnc=
 			</data>
 			<key>hash2</key>
 			<data>
-			lCDIx2FGa82S71zL2BxCowonFTK3V1FjPtKYu/O1VAE=
+			visQltvpUZozrXVLxiv50Bg+VkT6m9h1WHCdzxyu/vE=
 			</data>
 		</dict>
 		<key>Headers/SQShopConfig.h</key>
@@ -3273,17 +3250,6 @@
 			<key>hash2</key>
 			<data>
 			yaal9cYFtgWSUPXvXgDmNri4ARzXq4vXHH44mGprhes=
-			</data>
-		</dict>
-		<key>Headers/SQShopModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uUfCohB4GHS+59+rmbpr3glznCI=
-			</data>
-			<key>hash2</key>
-			<data>
-			1aK60wThdohQrFOTlHLgRP7p75G2fC9OilFi+1DObBc=
 			</data>
 		</dict>
 		<key>Headers/SQShopViewController.h</key>
@@ -3308,37 +3274,26 @@
 			BR+RpOVMbMfxa5W1urB7vp35CsLwPI5AavDaHj4lw40=
 			</data>
 		</dict>
-		<key>Headers/ShopCoreManager.h</key>
+		<key>Headers/SQTabBarController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oopQicWQhBH39cAjBUQkQLznhC4=
+			SqYOK0hWCOjW6fH/m9dOGxTBJBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			7jnFzRGEeIf9K+eNyzuB2xqudgebpekiwUf3D8XAtA8=
-			</data>
-		</dict>
-		<key>Headers/TabBarController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XqGCdp+c6wU7MpJ+cHTL2KyZy50=
-			</data>
-			<key>hash2</key>
-			<data>
-			EgE3vF1lXQmM9om5M8dSca9evD+CF5HwI3eQhiqsG5k=
+			SHaSy2MAeEOM4CHUPwgY2poS85qay+jbtlXUfzlHxrc=
 			</data>
 		</dict>
 		<key>Headers/shopcore.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wyb4bdEQQ/TYMznUs2ejpKO5yZs=
+			5AttPgTikclciy4WAv7fRH53oCI=
 			</data>
 			<key>hash2</key>
 			<data>
-			WPfhbf0oj6LJsgXA0LBSQaqyQq0DOBmoSBuBmkL6dQw=
+			hBwJqv4z835g5KvnYL2FWDZx6+vrgK2+3hwsaSsSOP4=
 			</data>
 		</dict>
 		<key>LICENSE</key>
