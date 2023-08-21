@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-    s.name             = "Shopcore"   
-    s.version          = "1.3.3"    
+    s.name             = "shopcore"   
+    s.version          = "1.3.5"    
     s.summary          = "shop"  
-    s.description  = "SQ ShopCore"
+    s.description  = "SQ shopCore"
     s.homepage         = "https://github.com/xuzheng94/SQShopcore.git"
     s.license          = "MIT"        
     s.author             = { "sunny" => "18763895318@163.com" }                   
