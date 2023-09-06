@@ -25,6 +25,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (NSArray<NSString *> *)itemsOriginTagArray;
 
+- (void)showTabBarRedDot:(NSString *)url;
+
+- (void)hideTabBarRedDot:(NSString *)url;
+
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -179,6 +179,13 @@ Api.prototype.setSessionStorage = function(obj) {
 Api.prototype.getSessionStorage = function(obj) {
     plus.jsbridge.getSessionStorage(obj)
 }
+
+Api.prototype.showTabBarRedDot = function(obj) {
+    plus.jsbridge.showTabBarRedDot(obj)
+}
+Api.prototype.hideTabBarRedDot = function(obj) {
+    plus.jsbridge.hideTabBarRedDot(obj)
+}
     
 module.exports = new Api();
 

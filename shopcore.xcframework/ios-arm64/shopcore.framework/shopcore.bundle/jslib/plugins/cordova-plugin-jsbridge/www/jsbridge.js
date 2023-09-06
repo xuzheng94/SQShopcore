@@ -249,6 +249,20 @@ JsBridge.prototype.getXGToken = function(obj) {
         obj && obj.fail && obj.fail(err)
     }, 'JsBridge', 'getXGToken', [obj]);
 }
+JsBridge.prototype.showTabBarRedDot = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'showTabBarRedDot', [obj]);
+}
+JsBridge.prototype.hideTabBarRedDot = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'hideTabBarRedDot', [obj]);
+}
     
 JsBridge.prototype.setSessionStorage = function(obj) {
     exec(res=>{

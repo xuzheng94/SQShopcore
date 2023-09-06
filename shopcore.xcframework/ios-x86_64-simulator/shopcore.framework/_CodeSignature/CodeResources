@@ -114,11 +114,11 @@
 		</data>
 		<key>Headers/SQShopApi.h</key>
 		<data>
-		g7Jqje0n3ej7Xcbyy7WtHTarvnc=
+		2IGk026TEjVapRQmOznlHWJSp+Q=
 		</data>
 		<key>Headers/SQShopConfig.h</key>
 		<data>
-		infa2n9os4sI3/jrlxziQbx3ll4=
+		udwVa5UXOy1yf1BZR+FskWe/32M=
 		</data>
 		<key>Headers/SQShopViewController.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/SQTabBarController.h</key>
 		<data>
-		SqYOK0hWCOjW6fH/m9dOGxTBJBQ=
+		qDTCknLHrIMj4uKOMJON9JluYRI=
 		</data>
 		<key>Headers/shopcore.h</key>
 		<data>
@@ -557,7 +557,7 @@
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-api/www/api.js</key>
 		<data>
-		hVxd7M/BOJnPjCwnaWfDQbw5zds=
+		a/S/bO2RykFs8d37DLiFXNiv38c=
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-device/www/device.js</key>
 		<data>
@@ -565,7 +565,7 @@
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-jsbridge/www/jsbridge.js</key>
 		<data>
-		nEv5LTXwPPo1lgiak+Ss7ITICrQ=
+		kMqN1GX9ioy7tb5KlfryOlqVvHc=
 		</data>
 		<key>shopcore.bundle/pages.json</key>
 		<data>
@@ -3234,22 +3234,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g7Jqje0n3ej7Xcbyy7WtHTarvnc=
+			2IGk026TEjVapRQmOznlHWJSp+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			visQltvpUZozrXVLxiv50Bg+VkT6m9h1WHCdzxyu/vE=
+			PN5PKbgl0p/O1bMEq6gFVu3pYykKoV3EE3H1/ndVzqk=
 			</data>
 		</dict>
 		<key>Headers/SQShopConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			infa2n9os4sI3/jrlxziQbx3ll4=
+			udwVa5UXOy1yf1BZR+FskWe/32M=
 			</data>
 			<key>hash2</key>
 			<data>
-			yaal9cYFtgWSUPXvXgDmNri4ARzXq4vXHH44mGprhes=
+			VnSrapmS98Rv51FtXkLbicqcLMIMkCbNdZLdYOKFLO0=
 			</data>
 		</dict>
 		<key>Headers/SQShopViewController.h</key>
@@ -3278,11 +3278,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SqYOK0hWCOjW6fH/m9dOGxTBJBQ=
+			qDTCknLHrIMj4uKOMJON9JluYRI=
 			</data>
 			<key>hash2</key>
 			<data>
-			SHaSy2MAeEOM4CHUPwgY2poS85qay+jbtlXUfzlHxrc=
+			BtFAndFNmE+8TSl9Ed/iF/ua0EW64R4Clv4neijQk1g=
 			</data>
 		</dict>
 		<key>Headers/shopcore.h</key>
@@ -4124,11 +4124,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hVxd7M/BOJnPjCwnaWfDQbw5zds=
+			a/S/bO2RykFs8d37DLiFXNiv38c=
 			</data>
 			<key>hash2</key>
 			<data>
-			mFWZrTBytW3aEfCSPDycB+5+DmwxRwDpAakyJGzv71E=
+			fVMB3aobkjtrgqlr/88ZrM7JjgPqmkHe4swl9gQBAtM=
 			</data>
 		</dict>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-device/www/device.js</key>
@@ -4146,11 +4146,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nEv5LTXwPPo1lgiak+Ss7ITICrQ=
+			kMqN1GX9ioy7tb5KlfryOlqVvHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zVX4MW1C49L8pp32uxIg73H2BVhbcUN4nEXeJncc3po=
+			vJ1myhTnUodXFc5MM+4H1QCbZHEvpGqxwO9unUIlbZ4=
 			</data>
 		</dict>
 		<key>shopcore.bundle/pages.json</key>

@@ -15,6 +15,10 @@
 /// app url scheme，必填
 @property (nonatomic, strong) NSString *urlScheme;
 
+/// 是否是会员制，需要会员进行购买
+@property (nonatomic, assign) BOOL isMemberMode;
+
+
 /* --------------微信支付相关-------------- */
 /// 开发平台移动应用APPID，选填
 /// 若app内注册了wx的api则无需传递

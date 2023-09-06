@@ -32,6 +32,12 @@
     isForce:(BOOL)isForce
    callback: (void (^)(NSNumber *code, NSString *msg))callback;
 
+/**
+ @brief 绑定会员卡号
+ @param cardNO 会员卡号
+ */
++ (void)bindMemberCardNO:(NSString *)cardNO;
+
 /// 退出登录
 + (void)logout;
 
