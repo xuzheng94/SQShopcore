@@ -27,10 +27,9 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (assign, nonatomic) BOOL needReload;
 
-+ (SPViewController*) create:(NSString*)url;
-+ (SPViewController*) create:(NSString*)url titleStyle:(nullable NSString *)titleStyle;
-+ (SPViewController*) enter:(UIViewController*)fromVC loadUrl:(NSString*)url;
-+ (SPViewController*) enter:(UIViewController*)fromVC loadUrl:(NSString*)url titleStyle:(nullable NSString *)titleStyle;
++ (SPViewController*)create:(NSString*)url;
++ (SPViewController*)create:(NSString*)url titleStyle:(nullable NSString *)titleStyle;
++ (SPViewController*)enter:(UIViewController*)fromVC loadUrl:(NSString*)url;
 
 - (void)createWithUrl:(NSString*)url titleStyle:(nullable NSString *)titleStyle;
 

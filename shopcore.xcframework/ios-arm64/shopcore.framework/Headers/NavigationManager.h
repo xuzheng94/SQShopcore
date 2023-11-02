@@ -52,6 +52,9 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (NSInteger)getTabItemIndexWithUrl:(NSString *)url;
 
++ (void)navigationBackWithViewController:(UIViewController *)viewController;
+
+
 @end
 
 NS_ASSUME_NONNULL_END

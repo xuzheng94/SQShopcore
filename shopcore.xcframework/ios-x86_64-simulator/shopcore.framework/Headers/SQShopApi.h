@@ -22,6 +22,8 @@
  */
 + (BOOL)handleOpenURL:(NSURL *)url;
 
++ (BOOL)continueUserActivity:(NSUserActivity *)userActivity restorationHandler:(void (^)(NSArray<id<UIUserActivityRestoring>> * _Nullable))restorationHandler;
+
 /**
  @brief sso授权登录
  @param ssoModel sso相关信息
@@ -70,6 +72,15 @@
  @param url 页面路径
  */
 + (SPViewController *)createPageWithURL:(NSString*)url;
+
+
+/// 获取一个window root
++ (UIViewController *)windowRootViewController;
+/// 带启动参数注册
++ (void)registerAppWithShopConfig:(SQShopConfig *)config
+                    launchOptions:(NSDictionary *)launchOptions;
+/// 获取业务请求头
++ (NSDictionary *)getBusinessRequestHeader;
 
 @end
 

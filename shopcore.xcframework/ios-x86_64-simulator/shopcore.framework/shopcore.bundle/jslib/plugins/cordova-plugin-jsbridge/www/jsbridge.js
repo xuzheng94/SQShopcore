@@ -279,6 +279,22 @@ JsBridge.prototype.getSessionStorage = function(obj) {
         obj && obj.fail && obj.fail(err)
     }, 'JsBridge', 'getSessionStorage', [obj]);
 }
+JsBridge.prototype.openChat = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'openChat', [obj]);
+}
+
+JsBridge.prototype.openChatList = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'openChatList', [obj]);
+}
+
     
 JsBridge.prototype.setPrivacyStatus = function(obj) {
     exec(res=>{
