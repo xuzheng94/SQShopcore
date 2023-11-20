@@ -75,6 +75,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (SPViewController *)createPageWithURL:(NSString*)url;
 
+/// 获取sdk版本号
++ (NSString *)getVersion;
 
 /// 获取一个window root
 + (UIViewController *)windowRootViewController;

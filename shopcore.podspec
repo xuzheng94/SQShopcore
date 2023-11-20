@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
     s.name             = "Shopcore"   
-    s.version          = "1.4.0"    
+    s.version          = "1.4.1"    
     s.summary          = "shop"  
     s.description  = "Easily integrate a shop"
-    s.homepage         = "https://www.shop2cn.com"
+    s.homepage         = "https://www.shop2cn.cn"
     s.license          = "MIT"        
     s.author             = { "sunny" => "18763895318@163.com" }                   
     s.source       = { :git => "https://github.com/xuzheng94/SQShopcore.git", :tag => s.version }                          

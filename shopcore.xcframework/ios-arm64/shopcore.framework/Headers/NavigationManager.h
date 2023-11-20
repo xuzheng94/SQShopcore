@@ -35,6 +35,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (UIViewController *)currentViewController;
 
++ (UIViewController *)findCurrentShowingViewControllerFrom:(UIViewController *)vc;
+
 /**
  根据url选中tab页，
  会默认先检查当前url是否是tab页
