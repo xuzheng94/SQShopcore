@@ -9,13 +9,17 @@
 
 @interface SQShopConfig : NSObject
 
-/// 店铺ID，必填
+/// 店铺ID (必填)
 @property (nonatomic, strong) NSString *mchID;
 
-/// app url scheme，必填
+/// app url scheme (必填)
+/// app外场景打开app时使用，可用项目已定义的scheme，也可为sdk重新定义一个
 @property (nonatomic, strong) NSString *urlScheme;
 
-/// 是否是会员制，需要会员进行购买
+/// 访问域名 (选填)
+@property (nonatomic, strong) NSString *h5Domain;
+
+/// 是否是会员制，需要会员进行购买 (选填)
 @property (nonatomic, assign) BOOL isMemberMode;
 
 
