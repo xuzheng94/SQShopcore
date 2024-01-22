@@ -34,6 +34,10 @@ MiniProgram.prototype.navigateBack = function(obj) {
 MiniProgram.prototype.switchTab = function(obj) {
     plus.jsbridge.switchTab(obj.url)
 }
+    
+MiniProgram.prototype.switchHome = function(obj) {
+    plus.jsbridge.switchHome()
+}
 
 MiniProgram.prototype.reLaunch = function(obj) {
     plus.jsbridge.reLaunch(obj.url)

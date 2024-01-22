@@ -31,6 +31,10 @@ JsBridge.prototype.navigateBack = function() {
 JsBridge.prototype.switchTab = function(url) {
     exec(res=>{}, err => {}, 'JsBridge', 'switchTab', [url]);
 }
+    
+JsBridge.prototype.switchHome = function() {
+    exec(res=>{}, err => {}, 'JsBridge', 'switchHome', []);
+}
 
 JsBridge.prototype.reLaunch = function(url) {
     exec(res=>{}, err => {}, 'JsBridge', 'reLaunch', [url]);

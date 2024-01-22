@@ -48,6 +48,9 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)switchTabWithIndex:(NSInteger)index;
 
+/// 切到tab首页
++ (void)switchHome:(UIViewController *)currentVC;
+
 /**
  根据url获取当前tabindex
  若不是tab页则返回-1
