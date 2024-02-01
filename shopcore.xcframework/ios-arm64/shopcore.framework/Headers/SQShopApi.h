@@ -53,6 +53,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 实例化Tab页面
 + (SQTabBarController *)createPageTabs;
+/// 实例化Tab页面, 可指定选中的页面
++ (SQTabBarController *)createPageTabs:(SQShopTabPageType)pageType;
 
 /// 实例化微首页
 + (SPViewController *)createPageMicroHome;
