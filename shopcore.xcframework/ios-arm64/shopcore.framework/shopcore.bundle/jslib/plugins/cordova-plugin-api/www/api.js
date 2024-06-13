@@ -196,7 +196,13 @@ Api.prototype.openChat = function(obj) {
 Api.prototype.openChatList = function(obj) {
     plus.jsbridge.openChatList(obj)
 }
-    
+Api.prototype.isAlipayAppInstalled = function(obj) {
+    plus.jsbridge.isAlipayAppInstalled(obj)
+}
+Api.prototype.isAlipaySandboxAppInstalled = function(obj) {
+    plus.jsbridge.isAlipaySandboxAppInstalled(obj)
+}
+
 module.exports = new Api();
 
 });

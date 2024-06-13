@@ -298,7 +298,22 @@ JsBridge.prototype.openChatList = function(obj) {
         obj && obj.fail && obj.fail(err)
     }, 'JsBridge', 'openChatList', [obj]);
 }
+    
+JsBridge.prototype.isAlipayAppInstalled = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'isAlipayAppInstalled', [obj]);
+}
 
+JsBridge.prototype.isAlipaySandboxAppInstalled = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'isAlipaySandboxAppInstalled', [obj]);
+}
     
 JsBridge.prototype.setPrivacyStatus = function(obj) {
     exec(res=>{
