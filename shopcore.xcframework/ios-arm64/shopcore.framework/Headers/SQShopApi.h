@@ -92,28 +92,35 @@ NS_ASSUME_NONNULL_BEGIN
  @brief 创建一个收银台页面
  @param outerMainOrderNo 主单号
  @param outerUserId 用户id
+ @param autoPayType 'wechatPay' || 'aliPay'
  @return 收银台
  */
 + (SPViewController *)createPagePayOrderWithOuterMainOrderNo:(NSString *)outerMainOrderNo
-                                                 outerUserId:(NSString *)outerUserId;
+                                                 outerUserId:(NSString *)outerUserId
+                                                 autoPayType:(NSString *)autoPayType;
 
 /**
  @brief 用当前导航push一个收银台页面
  @param outerMainOrderNo 主单号
  @param outerUserId 用户id
+ @param autoPayType 'wechatPay' || 'aliPay'
  */
 + (void)pushPayOrderWithViewController:(UIViewController *)viewController
                       outerMainOrderNo:(NSString *)outerMainOrderNo
-                           outerUserId:(NSString *)outerUserId;
+                           outerUserId:(NSString *)outerUserId
+                           autoPayType:(NSString *)autoPayType;
+
 
 /**
  @brief present方式展示一个收银台页面
  @param outerMainOrderNo 主单号
  @param outerUserId 用户id
+ @param autoPayType 'wechatPay' || 'aliPay'
  */
 + (void)presentPayOrderWithViewController:(UIViewController *)viewController
                          outerMainOrderNo:(NSString *)outerMainOrderNo
-                              outerUserId:(NSString *)outerUserId;
+                              outerUserId:(NSString *)outerUserId
+                              autoPayType:(NSString *)autoPayType;
 
 @end
 
