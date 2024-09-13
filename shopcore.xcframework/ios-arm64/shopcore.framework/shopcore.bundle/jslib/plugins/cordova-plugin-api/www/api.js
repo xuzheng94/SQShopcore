@@ -190,6 +190,9 @@ Api.prototype.showTabBarRedDot = function(obj) {
 Api.prototype.hideTabBarRedDot = function(obj) {
     plus.jsbridge.hideTabBarRedDot(obj)
 }
+Api.prototype.setTabBarBadge = function(obj) {
+    plus.jsbridge.setTabBarBadge(obj)
+}
 Api.prototype.openChat = function(obj) {
     plus.jsbridge.openChat(obj)
 }

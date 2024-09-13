@@ -38,6 +38,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// 根据url获取index
 - (NSInteger)getItemIndexWithUrl:(NSString *)url;
 
+/// 为 tabBar 某一项的右上角添加文本, text为空则不展示
+- (void)setTabBarBadge:(NSString *)url text:(NSString *)text;
+
 @end
 
 NS_ASSUME_NONNULL_END

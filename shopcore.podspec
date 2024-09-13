@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "Shopcore"   
-    s.version          = "1.7.0"    
+    s.version          = "1.8.0"    
     s.summary          = "shop"  
     s.description  = "Easily integrate a shop"
     s.homepage         = "https://www.shop2cn.cn"

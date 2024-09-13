@@ -267,7 +267,13 @@ JsBridge.prototype.hideTabBarRedDot = function(obj) {
         obj && obj.fail && obj.fail(err)
     }, 'JsBridge', 'hideTabBarRedDot', [obj]);
 }
-    
+JsBridge.prototype.setTabBarBadge = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'setTabBarBadge', [obj]);
+}
 JsBridge.prototype.setSessionStorage = function(obj) {
     exec(res=>{
         obj && obj.success && obj.success(res)

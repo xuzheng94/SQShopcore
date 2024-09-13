@@ -77,9 +77,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (SPViewController *)createPageWithURL:(NSString*)url;
 
-/// 获取sdk版本号
-+ (NSString *)getVersion;
-
 /// 获取一个window root
 + (UIViewController *)windowRootViewController;
 /// 带启动参数注册
@@ -88,40 +85,46 @@ NS_ASSUME_NONNULL_BEGIN
 /// 获取业务请求头
 + (NSDictionary *)getBusinessRequestHeader;
 
+/// 获取sdk版本号
++ (NSString *)getVersion;
+
 /**
  @brief 创建一个收银台页面
  @param outerMainOrderNo 主单号
  @param outerUserId 用户id
  @param autoPayType 'wechatPay' || 'aliPay'
+ @param payResultStyle 支付成功后，收银台是否展示成功/失败的状态，0=展示，1=不展示
  @return 收银台
  */
 + (SPViewController *)createPagePayOrderWithOuterMainOrderNo:(NSString *)outerMainOrderNo
                                                  outerUserId:(NSString *)outerUserId
-                                                 autoPayType:(NSString *)autoPayType;
-
+                                                 autoPayType:(NSString *)autoPayType
+                                              payResultStyle:(NSInteger)payResultStyle;
 /**
  @brief 用当前导航push一个收银台页面
  @param outerMainOrderNo 主单号
  @param outerUserId 用户id
  @param autoPayType 'wechatPay' || 'aliPay'
+ @param payResultStyle 支付成功后，收银台是否展示成功/失败的状态，0=展示，1=不展示
  */
 + (void)pushPayOrderWithViewController:(UIViewController *)viewController
                       outerMainOrderNo:(NSString *)outerMainOrderNo
                            outerUserId:(NSString *)outerUserId
-                           autoPayType:(NSString *)autoPayType;
-
+                           autoPayType:(NSString *)autoPayType
+                        payResultStyle:(NSInteger)payResultStyle;
 
 /**
  @brief present方式展示一个收银台页面
  @param outerMainOrderNo 主单号
  @param outerUserId 用户id
  @param autoPayType 'wechatPay' || 'aliPay'
+ @param payResultStyle 支付成功后，收银台是否展示成功/失败的状态，0=展示，1=不展示
  */
 + (void)presentPayOrderWithViewController:(UIViewController *)viewController
                          outerMainOrderNo:(NSString *)outerMainOrderNo
                               outerUserId:(NSString *)outerUserId
-                              autoPayType:(NSString *)autoPayType;
-
+                              autoPayType:(NSString *)autoPayType
+                           payResultStyle:(NSInteger)payResultStyle;
 @end
 
 NS_ASSUME_NONNULL_END

@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/SQShopApi.h</key>
 		<data>
-		NXD5G1Oh0t8x6zgfLjsuCHcpJHE=
+		zpo/YCMWJKhiZDlPK/8MHGra+mQ=
 		</data>
 		<key>Headers/SQShopConfig.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/SQTabBarController.h</key>
 		<data>
-		wQ/dIqqXzwPtBK/vwghnJi+zWVo=
+		Q/dRZId02k+K+EWFqs90NRd5CZA=
 		</data>
 		<key>Headers/shopcore.h</key>
 		<data>
@@ -557,7 +557,7 @@
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-api/www/api.js</key>
 		<data>
-		HvWSng6/Qtu8qocV1P0wvHnlSSo=
+		+aHz/0HrjWSeL/hAyMOmiOCSxpo=
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-device/www/device.js</key>
 		<data>
@@ -565,7 +565,7 @@
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-jsbridge/www/jsbridge.js</key>
 		<data>
-		cOzFtPZqF2OYokVr2+6XKhqP7TU=
+		rB4LHSKPHFHcaPcC8Qt3OWjxJks=
 		</data>
 		<key>shopcore.bundle/pages.json</key>
 		<data>
@@ -2502,11 +2502,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NXD5G1Oh0t8x6zgfLjsuCHcpJHE=
+			zpo/YCMWJKhiZDlPK/8MHGra+mQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8vVOs10LfYsU+wDJAjypplzpaBL2mywKqNhTSTz/D9I=
+			L/lLF3l0+K/PeNn6Q2DHlUAja6jZgh9wF7bM1TYjfKY=
 			</data>
 		</dict>
 		<key>Headers/SQShopConfig.h</key>
@@ -2546,11 +2546,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wQ/dIqqXzwPtBK/vwghnJi+zWVo=
+			Q/dRZId02k+K+EWFqs90NRd5CZA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vTpSimMQuOhEQv5WbrOZGKIUIbTamfQuzNajr9C9BLQ=
+			YOEON7sDWZBAFUbA8468m7Gw0okcHdUeCOURK00HOLs=
 			</data>
 		</dict>
 		<key>Headers/shopcore.h</key>
@@ -3392,11 +3392,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HvWSng6/Qtu8qocV1P0wvHnlSSo=
+			+aHz/0HrjWSeL/hAyMOmiOCSxpo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6KVhq66FEdMw5FkPtWiddkJyBrhv7DHskQC1X5lZv3M=
+			gltTc47z1VjAtJl1qsyQIYYiqRaU1G2Po4mSZt5btzw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-device/www/device.js</key>
@@ -3414,11 +3414,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cOzFtPZqF2OYokVr2+6XKhqP7TU=
+			rB4LHSKPHFHcaPcC8Qt3OWjxJks=
 			</data>
 			<key>hash2</key>
 			<data>
-			q6J5NzAWdASS3jG0iDirpRCrFB7ZRBD0UxhRY3PUXtI=
+			hyk+2xw0hocJAIsVDv2IhU0jIylYHtDI29lsTagIV9M=
 			</data>
 		</dict>
 		<key>shopcore.bundle/pages.json</key>
