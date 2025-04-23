@@ -51,6 +51,13 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (BOOL)isLogin;
 
+/**
+ @brief 设置门店信息
+ @param storeId 门店ID
+ @param storeName 门店名称
+ */
++ (void)setupHostStoreWithStoreId:(NSString *)storeId storeName:(NSString *)storeName;
+
 /// 实例化Tab页面
 + (SQTabBarController *)createPageTabs;
 /// 实例化Tab页面, 可指定选中的页面
@@ -85,7 +92,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// 获取业务请求头
 + (NSDictionary *)getBusinessRequestHeader;
 
-/// 获取sdk版本号
+/// 获取sdk版本号 1.9.0
 + (NSString *)getVersion;
 
 /**

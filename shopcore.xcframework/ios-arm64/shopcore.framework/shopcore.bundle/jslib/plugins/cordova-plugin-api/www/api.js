@@ -205,6 +205,9 @@ Api.prototype.isAlipayAppInstalled = function(obj) {
 Api.prototype.isAlipaySandboxAppInstalled = function(obj) {
     plus.jsbridge.isAlipaySandboxAppInstalled(obj)
 }
+Api.prototype.getHostStore = function(obj) {
+    plus.jsbridge.getHostStore(obj)
+}
 
 module.exports = new Api();
 

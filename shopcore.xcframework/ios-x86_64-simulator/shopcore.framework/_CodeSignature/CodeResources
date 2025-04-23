@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		7HezcMvAABZ9ZZUMky7v3a4lwIQ=
+		w2wRCReq8YdAOV/RRp+slGbMY0c=
 		</data>
 		<key>DebugConsoleCell.nib</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>DebugPanelCell.nib/objects-14.0+.nib</key>
 		<data>
-		qY7QyGqRbyykLFbYYkRx0NXeY/Q=
+		o+UMK8oaRC7RRfQ63H9EsKeLwRk=
 		</data>
 		<key>DebugPanelCell.nib/runtime.nib</key>
 		<data>
-		160EnM1NKfCL/Mg4Ii9qWmCj624=
+		dsnoaV1QYI0tPgEo9ZI8kQcLiVM=
 		</data>
 		<key>DebugPanelTableVC.nib</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/SQShopApi.h</key>
 		<data>
-		zpo/YCMWJKhiZDlPK/8MHGra+mQ=
+		Q2EEKc5AJhffS5Z9GIWCgvmoviI=
 		</data>
 		<key>Headers/SQShopConfig.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dA7CHLv4moPnK0ZQ49iVL+G6v8k=
+		JLXDDa9ii/M4G6me96+53WT2FLc=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -557,7 +557,7 @@
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-api/www/api.js</key>
 		<data>
-		+aHz/0HrjWSeL/hAyMOmiOCSxpo=
+		f/eZCqrPHmO/CRvOOFDC2A2ZKRU=
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-device/www/device.js</key>
 		<data>
@@ -565,7 +565,7 @@
 		</data>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-jsbridge/www/jsbridge.js</key>
 		<data>
-		rB4LHSKPHFHcaPcC8Qt3OWjxJks=
+		OtUudpOu0EYtD9GMQ+zWsrWcvvM=
 		</data>
 		<key>shopcore.bundle/pages.json</key>
 		<data>
@@ -573,439 +573,439 @@
 		</data>
 		<key>shopcore.bundle/www/info.json</key>
 		<data>
-		Q8tSM8Er1w945IU37T5lBMsS71A=
+		Fe0qZ5+/A5LTYfJmE5el22WDBOk=
 		</data>
 		<key>shopcore.bundle/www/pages/addaddress.html</key>
 		<data>
-		GBIw/hjETqiDNyqXUrL/xlEuJHk=
+		VYpZw9fK9eWCt0jxg9OR00N6Qj8=
 		</data>
 		<key>shopcore.bundle/www/pages/addoverseasaddress.html</key>
 		<data>
-		sm+wYwjYKSgK+qVSuNAzN6c0BqM=
+		xHShCEc/U2teJdePZuYzyw1oEhI=
 		</data>
 		<key>shopcore.bundle/www/pages/addresslist.html</key>
 		<data>
-		6t3rgYea+KvdEwTM6mX4X2hHQkU=
+		3R/sp73RQ7Fr0shIWj+7gbfIAgs=
 		</data>
 		<key>shopcore.bundle/www/pages/addressselect.html</key>
 		<data>
-		/okZU2GdnNvSdfJ2o1rykVJH+kc=
+		veyXXPtrBrt219rfc2KcTwFov50=
 		</data>
 		<key>shopcore.bundle/www/pages/adtrace.html</key>
 		<data>
-		a1qsioIFExInnhHUYk0YqjMZ4bU=
+		dOCyANSvpOJFcidObXajHolsRKY=
 		</data>
 		<key>shopcore.bundle/www/pages/agreement.html</key>
 		<data>
-		elkcMel9r6ArCJ4oBJy7f60t/uw=
+		hR3DtvpZdAlsWVKm9QYyhPsTp8U=
 		</data>
 		<key>shopcore.bundle/www/pages/apppay.html</key>
 		<data>
-		mmeb5dO/nW+h4l271XK7rl7AwUA=
+		d+vsW/Dsv3GOGtypX32TombV9no=
 		</data>
 		<key>shopcore.bundle/www/pages/apppayfail.html</key>
 		<data>
-		+8H+tJibF7xoqk9Y3tF2M6G1bd0=
+		R9NDALv34PJdk2K3hHnIfUV5Ojw=
 		</data>
 		<key>shopcore.bundle/www/pages/backapp.html</key>
 		<data>
-		DaIzVDKxQ02HUcbIeAlQICFNWwc=
+		vMKR/XdOoXaBOH1aWQFhW2BvSrs=
 		</data>
 		<key>shopcore.bundle/www/pages/bindmemberphone.html</key>
 		<data>
-		e/X4kGF/VpsWu8ffIyiW+e3T6SY=
+		Kat0geWdMmnspTZJfSPRzpg/W8U=
 		</data>
 		<key>shopcore.bundle/www/pages/bindmobilenumber.html</key>
 		<data>
-		lq7WUE7leHq71KXzd3ZA7AJ6EVU=
+		znRYFKrwyiIjlEA1xsTEnx7Skeo=
 		</data>
 		<key>shopcore.bundle/www/pages/brand.html</key>
 		<data>
-		G2rfoxIHH1p2B8ofVD41sqDj7u8=
+		yoappvZKdTmpiFs+4e/3dvMDb/M=
 		</data>
 		<key>shopcore.bundle/www/pages/btobaccount.html</key>
 		<data>
-		h8bQ2ivEJoWZXlOEgMw+JuieqHU=
+		03niSMCyqRyHMkEMKoljQsej+Xc=
 		</data>
 		<key>shopcore.bundle/www/pages/category.html</key>
 		<data>
-		mP1jdrK3mJlDXMfe7bVFV2ryxdE=
+		+6dl+G8iq75q7sypFXR0lTqR/3I=
 		</data>
 		<key>shopcore.bundle/www/pages/categorydev.html</key>
 		<data>
-		7CmM90vGFTxdBdI/u7qVPA2gqHk=
+		JfRY9pajoQgKNwQsQdFCf4ybk6o=
 		</data>
 		<key>shopcore.bundle/www/pages/checkbindmobile.html</key>
 		<data>
-		2Lwno/BeVZq4LLXXfvBxhFbhZwg=
+		3DwTeNOKMm81kgA3jZv77pLJT7Y=
 		</data>
 		<key>shopcore.bundle/www/pages/checkin.html</key>
 		<data>
-		KzlEU+WTdojtY35tWPEprI49VRg=
+		EiUbwt5TCeYxUSSNc0SLFmp0SZE=
 		</data>
 		<key>shopcore.bundle/www/pages/commissionlist.html</key>
 		<data>
-		uOldJIts1LPQN7uSRAY1054NO0w=
+		Hv8nh2P7w+f9MEHTRMc2TOaG+Gs=
 		</data>
 		<key>shopcore.bundle/www/pages/confirmorder.html</key>
 		<data>
-		z7QRNLRjneNJdk8tXHd4So1kK98=
+		3j0asfJD6UfXV8GrsB9Nb3xArlk=
 		</data>
 		<key>shopcore.bundle/www/pages/consumptioncoupons.html</key>
 		<data>
-		1AXtahrkRuce3UhZC8SLNMvQBHw=
+		Lb8OzG1vLL6VmNZwTA5WkBB+Mns=
 		</data>
 		<key>shopcore.bundle/www/pages/contactus.html</key>
 		<data>
-		jbeth4TIutXZHr4HFab/UuhPDGc=
+		NOwCfOJsUv1tJedxixeqhA0KYr8=
 		</data>
 		<key>shopcore.bundle/www/pages/countrylist.html</key>
 		<data>
-		I5U5y0P53HvT8P6/zuOuAYk+c8M=
+		NdqMaxt4AmgIMZJWf8Co47MgLMw=
 		</data>
 		<key>shopcore.bundle/www/pages/couponcenter.html</key>
 		<data>
-		nvK4XJciXs6csmvQb2S1x4Csd4k=
+		eH2nfRxVpTXaujs8S1lGScgmTAc=
 		</data>
 		<key>shopcore.bundle/www/pages/couponmergeitem.html</key>
 		<data>
-		942FRd26PZ8xmEsP5Sr4TAGxRHA=
+		w6Xi+9oerSF9fzoPk682alTGYX0=
 		</data>
 		<key>shopcore.bundle/www/pages/coupons.html</key>
 		<data>
-		mkpi+rDwUjwBq+0CjRls2ReYpj4=
+		UFXD3sRjyYo+E3M+QwDxj1O78QI=
 		</data>
 		<key>shopcore.bundle/www/pages/customerservice.html</key>
 		<data>
-		sGrop2mE8XT6TJ9h3TVWAkpX0Zo=
+		J80yj76ukH7c8LV3V5DNYE4r2uE=
 		</data>
 		<key>shopcore.bundle/www/pages/deleteaccount.html</key>
 		<data>
-		ew9xdsCAt0X9GBYnoNU5GEBoTew=
+		ylFy0piJqtJDLMZ+jbl5joqZIUo=
 		</data>
 		<key>shopcore.bundle/www/pages/evaluate.html</key>
 		<data>
-		EEM4cSB9+beAbVFegRXN/vZlbpc=
+		zf/DfVX94Wzqarun3HB+VExkCrI=
 		</data>
 		<key>shopcore.bundle/www/pages/evaluateapply.html</key>
 		<data>
-		OIkgXJl0gZELqCuXT1PzJ4F74bE=
+		AOkYkYyodGYM+AaYVGJTgVpXa6Y=
 		</data>
 		<key>shopcore.bundle/www/pages/evaluatesucess.html</key>
 		<data>
-		B0gib1FSHR4vMOCsTs2Y0ZKfTOw=
+		Y5hOTuADM+bCa6MjXrBSblFsdcs=
 		</data>
 		<key>shopcore.bundle/www/pages/fashsale.html</key>
 		<data>
-		aU87Eg4ts/uiG3fyKa28dxTqlos=
+		7SRX3YibkbXEp7fUJRgL6t5Y6J0=
 		</data>
 		<key>shopcore.bundle/www/pages/generalsettings.html</key>
 		<data>
-		0AuVV6+MQYXGmnXHuTxF9IOVRwI=
+		8u7A3Xd5Sxu1eb8HqFCafWeXi7I=
 		</data>
 		<key>shopcore.bundle/www/pages/h5login.html</key>
 		<data>
-		OURxQKn8wv3cfu2fX7dQRPRLpP0=
+		3cva/NKC1BlX3KN82ycIgk25ktU=
 		</data>
 		<key>shopcore.bundle/www/pages/helppay.html</key>
 		<data>
-		UzMLHpFDqyDgfzfPVJ5RhbDC/6Q=
+		ZTO+HaL91eeDYFCXHGtKZvF8mRY=
 		</data>
 		<key>shopcore.bundle/www/pages/helpshare.html</key>
 		<data>
-		oh9ptwcqyZSA40kuNOxHiO/gWu4=
+		nLYw4q63YN2RLFddwLTUHBZHyDY=
 		</data>
 		<key>shopcore.bundle/www/pages/home.html</key>
 		<data>
-		LpeN5QGbpUafShQHmIPjXTudBl8=
+		/56fm6ud0UKyDZLupIufTrj3w58=
 		</data>
 		<key>shopcore.bundle/www/pages/idcardlist.html</key>
 		<data>
-		wuvLI6bcmespkgvwY65iLOPCYZ4=
+		yRV6MUkfwJfrq9iUl46PzKFxNzU=
 		</data>
 		<key>shopcore.bundle/www/pages/index.html</key>
 		<data>
-		5RU6Af/KdCr/qHxwUcW97UEcUig=
+		4uMWrwIyP12Idmm55P36wBScDfg=
 		</data>
 		<key>shopcore.bundle/www/pages/integral.html</key>
 		<data>
-		0NtWsqiPj4/RxuNgCfsJW5i52Xo=
+		Klornp00F8wly3rKPN84I5NqKyk=
 		</data>
 		<key>shopcore.bundle/www/pages/invitepay.html</key>
 		<data>
-		/8NH3fzDResciyR2GNppDw6rfzw=
+		g/aXMw61sbrBjGcdP4tGliN3DjY=
 		</data>
 		<key>shopcore.bundle/www/pages/item.html</key>
 		<data>
-		Jon/2heoLX895SVCi31NUu3vKVQ=
+		yaUDl3dH4CAy63kJlGnr5SIbZMU=
 		</data>
 		<key>shopcore.bundle/www/pages/jumpmp.html</key>
 		<data>
-		lhZgQWyFDehMS+QX4BZlY2kzSww=
+		+SLtk7em9mt/c0FPPR8wx+kh9S8=
 		</data>
 		<key>shopcore.bundle/www/pages/login.html</key>
 		<data>
-		IhU5qDLwNUZy2b57Ld0mQ0iSMu4=
+		Kb2AhQ0ft7oQFqz8f1ygmKJVcag=
 		</data>
 		<key>shopcore.bundle/www/pages/logs.html</key>
 		<data>
-		0/HIgBPMcwUdVp/pT4f6EbSlP8U=
+		nBdlPWmLm+XRxGoJ/PYF/+lVjU0=
 		</data>
 		<key>shopcore.bundle/www/pages/makeup.html</key>
 		<data>
-		OMbkM/6pbFp/y9XI/mSb+3+x/ak=
+		vamDzqUgCGyUucHWmbCacJRjkOA=
 		</data>
 		<key>shopcore.bundle/www/pages/membercenter.html</key>
 		<data>
-		h3xYKbZ2tKMDSyHQjZ/400jPsY4=
+		wY5yX2aLJtkctnBvLPktrCATKPo=
 		</data>
 		<key>shopcore.bundle/www/pages/membercenterown.html</key>
 		<data>
-		eUKbechCBYwofFSDpMDGwAXf0jI=
+		wlQQybdFtnsgZGBLQhlk68Nei1o=
 		</data>
 		<key>shopcore.bundle/www/pages/memberchangenumber.html</key>
 		<data>
-		JmzESHeId4mFBCczf9i3eqYbQsU=
+		l2zbbTYxxiJe1ZwSxqTstVazuDY=
 		</data>
 		<key>shopcore.bundle/www/pages/memberdatum.html</key>
 		<data>
-		P0hw44YqRR5YlpUq94iDoknM2PY=
+		ei3DBO2gbvqQeFM95FzPnXFJodI=
 		</data>
 		<key>shopcore.bundle/www/pages/membernumber.html</key>
 		<data>
-		nKWmXxQMOGFjHOyEf4AQnbJwFkk=
+		aa/eEHmUhZHVCyp8x0RC/e/Q0tI=
 		</data>
 		<key>shopcore.bundle/www/pages/memberperfection.html</key>
 		<data>
-		qm5BWuprGiX0EZ5kayvMgT4UU3A=
+		nMNeN6kqezACdgFU0+V/ItMSxXw=
 		</data>
 		<key>shopcore.bundle/www/pages/memberperfectionown.html</key>
 		<data>
-		udSdkzB4atUr2rCoqAo9X0cqPLg=
+		M0D/eVG2KD0hJR+zCPd1mVTxnR4=
 		</data>
 		<key>shopcore.bundle/www/pages/memberpoints.html</key>
 		<data>
-		HGtVmdT3KUtdcJ6YjvAoxYnFGuw=
+		5HhNY8NcKfDEJ5FZnjC+PNJdO60=
 		</data>
 		<key>shopcore.bundle/www/pages/memberpointsrule.html</key>
 		<data>
-		Yd+xaU8x5cOfyiNOwBESa8Vtq2U=
+		IeVQTk67Cwv6WyInZvXMEykKcl8=
 		</data>
 		<key>shopcore.bundle/www/pages/memberprivilege.html</key>
 		<data>
-		USet2pA/aNBENWhULZ20/qs8TXg=
+		bfV2Jq5AUPmMBYRH604R0B1+2hc=
 		</data>
 		<key>shopcore.bundle/www/pages/memberregistered.html</key>
 		<data>
-		4eiMbWstgbuTC4gDQu1YkqkwZko=
+		gIem/Dj7GbceHKQyOCqxd487yas=
 		</data>
 		<key>shopcore.bundle/www/pages/memberrightsown.html</key>
 		<data>
-		BP+rqAnlJ1T6QXg/c8giHg9eiXQ=
+		xQOUTVCFxUH0Zq/25SD5ZQfMKds=
 		</data>
 		<key>shopcore.bundle/www/pages/messagecenter.html</key>
 		<data>
-		NnkyEhSRemODLv6HNoBwQzqOajU=
+		PgThJvfDP3EH5iI3yg5XVxF5iA4=
 		</data>
 		<key>shopcore.bundle/www/pages/moneyoff.html</key>
 		<data>
-		oAGq97jD1tnY8UCOzw45fjhcjRg=
+		gqX0RVM6yr7egxk/qhRLQwEI3oo=
 		</data>
 		<key>shopcore.bundle/www/pages/mycollection.html</key>
 		<data>
-		DGwQG37UsVJ2pZCN1UueOv6UfJQ=
+		ySxYGIDSQlknBoYNy7DYzGhzRFU=
 		</data>
 		<key>shopcore.bundle/www/pages/myevaluate.html</key>
 		<data>
-		FrYL7vZ6kq9k/oV24gTxpAhkO58=
+		XcaBchxVBnOAHrj6508InqhbraQ=
 		</data>
 		<key>shopcore.bundle/www/pages/myorderdetail.html</key>
 		<data>
-		hR+2t/8BLHc2orsHeXIDa/zNAFo=
+		qvtzdrisS++7JRyCju5/N+hoUHM=
 		</data>
 		<key>shopcore.bundle/www/pages/myorderlist.html</key>
 		<data>
-		+Rp7iU9UC+MzCVxsR3UMdns5Wlk=
+		8/zeJA5xmucitLBwG718EQ3FK/0=
 		</data>
 		<key>shopcore.bundle/www/pages/newmember.html</key>
 		<data>
-		AsYALl6gfTns8PkeraIYt8Y40ZY=
+		KD3fZpRKzpz+9EFWxFEUG0sEp8k=
 		</data>
 		<key>shopcore.bundle/www/pages/openaccount.html</key>
 		<data>
-		a40x/J5mpU9ziOGWQDyaNq9KOPc=
+		JYXHEQjkMU4LkO0oE+K3NshWF4c=
 		</data>
 		<key>shopcore.bundle/www/pages/paycheck.html</key>
 		<data>
-		GVMSaEbKq/9a7KyVT4oZvq4LVlQ=
+		l2TBf561/Ak/p/DfUXDY74PpnuM=
 		</data>
 		<key>shopcore.bundle/www/pages/payorder.html</key>
 		<data>
-		orj/0Dgq3PkIFEVzVOe6E6Y0H7c=
+		5jHzfMwpBCTqBAClryQUGblcHfA=
 		</data>
 		<key>shopcore.bundle/www/pages/paysuccess.html</key>
 		<data>
-		VeW9XBGKVSwyaTSudkSrKQCnqWk=
+		7NCU5t9g2TTsNiiMfdvoaJqu7BI=
 		</data>
 		<key>shopcore.bundle/www/pages/presale.html</key>
 		<data>
-		nZfqwmwkNtO6yM8NdCLt8lxOASM=
+		nnaE7W/72EqsPxxiYxk7TVhsiio=
 		</data>
 		<key>shopcore.bundle/www/pages/privilege.html</key>
 		<data>
-		i+D0GplkwSn4yeFsvWeD1TyE+DQ=
+		f/1q1vmH6hb+S0+2O/wBkOANybU=
 		</data>
 		<key>shopcore.bundle/www/pages/prodall.html</key>
 		<data>
-		syNXmfUrd5y/SZC1DxuRD5LViJA=
+		R/cwTGsYqTFFg5Wepy20sXbeElw=
 		</data>
 		<key>shopcore.bundle/www/pages/productcarddev.html</key>
 		<data>
-		yN4EYsMylVfsCGyIUKdT8O1rOu4=
+		9DoOfyBYy4Emm8/qPYcQoN4eD0A=
 		</data>
 		<key>shopcore.bundle/www/pages/productnew.html</key>
 		<data>
-		xkisSP5xS9Nqg133iHB09CoXlmg=
+		AAysjSlA0b8p3/k8CuE1hs6DEUk=
 		</data>
 		<key>shopcore.bundle/www/pages/producttoplist.html</key>
 		<data>
-		2DirLBpb5bDBUDFt+Kj523RLTWQ=
+		3qklZAMuOmayvgCt1Q921PFyXtI=
 		</data>
 		<key>shopcore.bundle/www/pages/promotion.html</key>
 		<data>
-		+TUChwZQCQTjJseHRZCuh6JvrvI=
+		USbrosRO4UvDJXFJQe5EFiBItFM=
 		</data>
 		<key>shopcore.bundle/www/pages/purchasein.html</key>
 		<data>
-		0c0HI7kMVSjilHGg/aUjZQ0SIx8=
+		BtPOUHlQzifi/Vd5Nq0KzxQS7CQ=
 		</data>
 		<key>shopcore.bundle/www/pages/purchaseincheck.html</key>
 		<data>
-		PQOrlIWZSLqprF1a31VWgR8EYmE=
+		/ZZ5BYHkELb6Dch8EQCtILelHAs=
 		</data>
 		<key>shopcore.bundle/www/pages/purchaseinlist.html</key>
 		<data>
-		7meSqpmeUbJpQU7/fkG+FqQZ0Lw=
+		qK49C9afkqiTAjdFilNf5m0Q74w=
 		</data>
 		<key>shopcore.bundle/www/pages/qidianimredirect.html</key>
 		<data>
-		4kIaXeJ3ATVhKSyvRe5+nZAS5WY=
+		WzaObMkfO7J0QDiza6Y/ieXauwU=
 		</data>
 		<key>shopcore.bundle/www/pages/querybatchno.html</key>
 		<data>
-		p+4Vz8YOsREn48vPksDrHscuBlc=
+		NwDjwxkMunFQZgdn5gSVoaNXxro=
 		</data>
 		<key>shopcore.bundle/www/pages/refund.html</key>
 		<data>
-		6T4/yMiKgTNocCB1A4JkQTlZrR8=
+		X/jddJxfPnD8herLkk0GUnD2fBg=
 		</data>
 		<key>shopcore.bundle/www/pages/refundaddproduct.html</key>
 		<data>
-		z03EYB2BLzNh2X5DAI/RGAZMHEk=
+		5uScIu95IJvv1TDnDCum+66TRrE=
 		</data>
 		<key>shopcore.bundle/www/pages/refundapply.html</key>
 		<data>
-		bOB+SNiWrmAnRaKLlzgCke0i4lI=
+		fFkk/EufOwCWVs+LawsP5B7/HNU=
 		</data>
 		<key>shopcore.bundle/www/pages/refundlist.html</key>
 		<data>
-		dHspn/sOeY/sc8otUqoz7ZUJDN4=
+		lSpb2BKbLIfOKeKNHL4u7orrGbM=
 		</data>
 		<key>shopcore.bundle/www/pages/refundlogisticlist.html</key>
 		<data>
-		HsKdtsFHdz5s/RwCVL+753fJWK0=
+		h6hbS4PXU/2CfNJr2oALvh6ySXs=
 		</data>
 		<key>shopcore.bundle/www/pages/refundservice.html</key>
 		<data>
-		qnuvbmLL/J5LnGSf2/hNaxGr4vs=
+		8eHY9aAi7Ca6zaMWC/qAvrCAKfc=
 		</data>
 		<key>shopcore.bundle/www/pages/returntax.html</key>
 		<data>
-		Sr8I0xKnL+fJJWKgNaMPRjndpAw=
+		8R+FJ78wutJnZGUY0E48bpvgwa4=
 		</data>
 		<key>shopcore.bundle/www/pages/search.html</key>
 		<data>
-		ZKjKFRbJLxstn4jmZpgIXABuxik=
+		SIPPIw2fWaTNvqk7zc6dCbzF8V8=
 		</data>
 		<key>shopcore.bundle/www/pages/selectbrand.html</key>
 		<data>
-		ZXBvgk+7vDD9FtRzTep8QDXh7XQ=
+		wo78K9g909zvJhqa6r4U2w0t6BY=
 		</data>
 		<key>shopcore.bundle/www/pages/setup.html</key>
 		<data>
-		q3aOomcA54RmjWdNyhn1iddJLJ8=
+		KL6oN8lvrBPTz+9Y0RoQtjMDYEk=
 		</data>
 		<key>shopcore.bundle/www/pages/shareactivitylist.html</key>
 		<data>
-		mbcl7ef746nk22uoY0ZH7tfqSqQ=
+		psj4jnVVywvrmzBovJs/Vxs5cxI=
 		</data>
 		<key>shopcore.bundle/www/pages/sharecoupon.html</key>
 		<data>
-		1T68nIVJBZRde/C1pzwGkAFd/8M=
+		RZBJODgswKLFuwYMs4mmume5RCY=
 		</data>
 		<key>shopcore.bundle/www/pages/shopfront.html</key>
 		<data>
-		KJ+sUTCGGYfxFhYAAQ2Hz3akc/c=
+		a6sMsvaEH+0s+WVVc55J2rahHTg=
 		</data>
 		<key>shopcore.bundle/www/pages/shoplist.html</key>
 		<data>
-		bsPR4OaUvgBt7fb8wXie1iEZrcA=
+		O/bs3ZOzOazBD3KQN6eeeywmv+g=
 		</data>
 		<key>shopcore.bundle/www/pages/shoppingcart.html</key>
 		<data>
-		yN5JCZcZjn3nChSrWjDmIBRmimI=
+		lq2KFU0lan7i0jmdvHHuBM6EnxQ=
 		</data>
 		<key>shopcore.bundle/www/pages/showactivity.html</key>
 		<data>
-		mbLFWdNt6Z7LKNkkbzh6hzHmDK8=
+		dQh9MsQyb+Ei0w1A9fjqtEcB0r0=
 		</data>
 		<key>shopcore.bundle/www/pages/showskin.html</key>
 		<data>
-		yRs29AuwXAl1f+wPZsd/AgHAYFA=
+		CUi04TyHnSJRZK2fDkTlJl83T+s=
 		</data>
 		<key>shopcore.bundle/www/pages/showskindev.html</key>
 		<data>
-		m1qu5XcVTCaRcLkd9Xvijv8GFuc=
+		/CUO5NV7yZfok0wsYRNoLlExijo=
 		</data>
 		<key>shopcore.bundle/www/pages/substitutepay.html</key>
 		<data>
-		Ro6jeW1Q68iTn0spD5dHAn6PsrY=
+		w6PkzHDU4pFm/H4H3ciBVdb7IUw=
 		</data>
 		<key>shopcore.bundle/www/pages/substitutesignup.html</key>
 		<data>
-		I5vlgeWKvm2Rw0sflHruNqY05H0=
+		JmdkzbxCQScXTWeRmpN7P8jnqZw=
 		</data>
 		<key>shopcore.bundle/www/pages/swap.html</key>
 		<data>
-		pZO0vyQcSjqqhXYMZufJEpI0dyw=
+		y7CBfq7Ezwjmt7RUl75TcRgA63Q=
 		</data>
 		<key>shopcore.bundle/www/pages/switchlanguage.html</key>
 		<data>
-		4YvT59cAgzUg+dW3n/HTboDXsuQ=
+		nXfCeX5frU01XXMdiRPMDLQ0IvY=
 		</data>
 		<key>shopcore.bundle/www/pages/transfer.html</key>
 		<data>
-		0Q/0xwz6lV/YUcdEpT1aig/08Z0=
+		5YQdFohPsPz7RoJDy/aNxAwPtaQ=
 		</data>
 		<key>shopcore.bundle/www/pages/uploadidcard.html</key>
 		<data>
-		CWLtFjCXFcxihu/JIy4/2xI8gEc=
+		YZ+2ftYdwjcpkMZwuyKc5e7AtZk=
 		</data>
 		<key>shopcore.bundle/www/pages/usercenter.html</key>
 		<data>
-		RF5WivoQq9zrgzucM/7/PvYvRXM=
+		OQIgtD833K3YyfSD15k2MYVELZ0=
 		</data>
 		<key>shopcore.bundle/www/pages/usercenterdev.html</key>
 		<data>
-		l0R9KJEB9QD+jGb32kyP+tbOboQ=
+		vsAII+W8A7m/HjjgA5Y/VV7LwLk=
 		</data>
 		<key>shopcore.bundle/www/pages/userinfo.html</key>
 		<data>
-		FtxO+HntGmi8c5B9743Hg1EjUL8=
+		zxQVndmmpVlskfmYysLYP9u4HHw=
 		</data>
 		<key>shopcore.bundle/www/pages/vipcoupons.html</key>
 		<data>
-		caIVrf4ImM6FMkM11DZZgXcvHQI=
+		AdsNsivpBONZqJkgS7aJtvatlCo=
 		</data>
 		<key>shopcore.bundle/www/static/css/011840d29d.css</key>
 		<data>
@@ -1014,6 +1014,10 @@
 		<key>shopcore.bundle/www/static/css/01fc7d63d9.css</key>
 		<data>
 		Hu1Wm4PTBLBMya3JLWA+flJUTvQ=
+		</data>
+		<key>shopcore.bundle/www/static/css/03b6915d78.css</key>
+		<data>
+		GWndtCG44i0FPJIxU1l4b2FB2Ks=
 		</data>
 		<key>shopcore.bundle/www/static/css/0bb248b643.css</key>
 		<data>
@@ -1034,6 +1038,10 @@
 		<key>shopcore.bundle/www/static/css/17888dbb94.css</key>
 		<data>
 		2bJYtyQ70cDxF1+khoCrsYXTDQY=
+		</data>
+		<key>shopcore.bundle/www/static/css/18064f6ff8.css</key>
+		<data>
+		/D45ZinXtYg2cml5PUnb0T9A6wM=
 		</data>
 		<key>shopcore.bundle/www/static/css/1a187a6c67.css</key>
 		<data>
@@ -1079,10 +1087,6 @@
 		<data>
 		1BJ/WKM/98/kgTXdMXvmNq2bq7Y=
 		</data>
-		<key>shopcore.bundle/www/static/css/3befc0cab8.css</key>
-		<data>
-		yWIgbuPe6iZggQ9FemNvPOU8S5g=
-		</data>
 		<key>shopcore.bundle/www/static/css/3da50ef550.css</key>
 		<data>
 		DY0YVxd/vUq28cFNf++MD8m7lEk=
@@ -1126,10 +1130,6 @@
 		<key>shopcore.bundle/www/static/css/5631dbd730.css</key>
 		<data>
 		vOYiRU+NkNd/0z9MChXeYqDElrU=
-		</data>
-		<key>shopcore.bundle/www/static/css/586ac4e7f1.css</key>
-		<data>
-		q0XG2kEhGP/krThzi6YowQDVulo=
 		</data>
 		<key>shopcore.bundle/www/static/css/58e9252eb3.css</key>
 		<data>
@@ -1675,443 +1675,443 @@
 		<data>
 		Z5LticV5Pk5vPV++d6+LmQlDuu4=
 		</data>
-		<key>shopcore.bundle/www/static/js/chunk-common.ca82cb20.js</key>
+		<key>shopcore.bundle/www/static/js/chunk-common.f2028a60.js</key>
 		<data>
-		7QERyISihvNQD7Wa8CxFPwMiW+k=
+		1KIlO+fAhutDWrGmVIkSPr/+WF8=
 		</data>
 		<key>shopcore.bundle/www/static/js/chunk-vendors.c1a42924.js</key>
 		<data>
 		Byak9jYIwShe3IXr/HCElHfgihM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/addaddress.43510fb7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addaddress.04492040.js</key>
 		<data>
 		KfpxNNfa7vBYVsUId7fshxuqTxw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/addoverseasaddress.06fff161.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addoverseasaddress.dbe21f44.js</key>
 		<data>
 		ZUEWrMovhitf3WZe0YaGJeZGlvI=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/addresslist.792fb9d5.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addresslist.6260b9a6.js</key>
 		<data>
 		4um3TDOzLyp2gAcXzuFh/h50Fps=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/addressselect.6d85afa7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addressselect.ec39be64.js</key>
 		<data>
 		7U9lai/+8OJf6AegFllKzceBMew=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/adtrace.44901ff7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/adtrace.8e597715.js</key>
 		<data>
 		iVQ9q/I1GaIlzfUoLw7R09X6Thc=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/agreement.c7f89ded.js</key>
+		<key>shopcore.bundle/www/static/js/pages/agreement.fd3c9ee0.js</key>
 		<data>
 		q2lZblzQM1e3gqYk35OE7zOZIas=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/apppay.a3ed3970.js</key>
+		<key>shopcore.bundle/www/static/js/pages/apppay.eac5403b.js</key>
 		<data>
 		j9B0w9SLFvBAQwLUMZ+eV/hXO98=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/apppayfail.b6c62f02.js</key>
+		<key>shopcore.bundle/www/static/js/pages/apppayfail.4c0766a4.js</key>
 		<data>
 		HVoZgBoxa+CCv09klRSkp3qsbqY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/backapp.bdf3a0ed.js</key>
+		<key>shopcore.bundle/www/static/js/pages/backapp.e5e5d88c.js</key>
 		<data>
 		5ZxmAyAWdfy6MCcmLmVkqoUO7io=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/bindmemberphone.046b87ff.js</key>
+		<key>shopcore.bundle/www/static/js/pages/bindmemberphone.2c061ba9.js</key>
 		<data>
 		wlYdWWW7MtlIbSQIE+Z6x+7YrAY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/bindmobilenumber.dbd9d04c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/bindmobilenumber.f0807b2e.js</key>
 		<data>
 		5+kBbD7/PhKWbKvjVL+eedKjJEM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/brand.1460387b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/brand.c9a3c263.js</key>
 		<data>
 		XXmbQtKccSf8KwvUH/vGcOPkbOE=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/btobaccount.bc1e1d62.js</key>
+		<key>shopcore.bundle/www/static/js/pages/btobaccount.3deb99f9.js</key>
 		<data>
 		ZY5tENZKQYwoReUOKPTgJxxoJ1o=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/category.b8c91a6c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/category.9611c963.js</key>
 		<data>
 		Sw9hYTnEo+2+W5REjqCTy2vQZv8=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/categorydev.01af7171.js</key>
+		<key>shopcore.bundle/www/static/js/pages/categorydev.bcf5811c.js</key>
 		<data>
 		c4GKZjT+BCTHQMQF2TkRU9pAYAk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/checkbindmobile.fdc9f1d4.js</key>
+		<key>shopcore.bundle/www/static/js/pages/checkbindmobile.acdcb69c.js</key>
 		<data>
 		VwMkMOYYofdjqAqI1y9e6n01yXo=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/checkin.34af00ff.js</key>
+		<key>shopcore.bundle/www/static/js/pages/checkin.d1e9425e.js</key>
 		<data>
 		Rt7ASVsY7rcFUKtP8xeU1s7Nl4k=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/commissionlist.9fced2b5.js</key>
+		<key>shopcore.bundle/www/static/js/pages/commissionlist.c011b1c8.js</key>
 		<data>
 		ti8dsiveYgJfkGm7IVfXm+jDao0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/confirmorder.61620577.js</key>
+		<key>shopcore.bundle/www/static/js/pages/confirmorder.cd73e37f.js</key>
 		<data>
-		7dOfzbelyw48DJ9kohpcXy/Pylc=
+		lNMy0gHeBOKz7MjaFaQOniIoMf4=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/consumptioncoupons.09b29487.js</key>
+		<key>shopcore.bundle/www/static/js/pages/consumptioncoupons.e3428257.js</key>
 		<data>
 		ktslCkOKJ/xEx/t4j/dvLT8O4gA=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/contactus.7e9ded8d.js</key>
+		<key>shopcore.bundle/www/static/js/pages/contactus.ee2cc2c8.js</key>
 		<data>
 		n9E5ozn31pGO34bucVbpvdZIG78=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/countrylist.ce26aae8.js</key>
+		<key>shopcore.bundle/www/static/js/pages/countrylist.d71c63da.js</key>
 		<data>
 		i2pS/Gq61KBUXPVehlxGOo+SFaw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/couponcenter.666b9e21.js</key>
+		<key>shopcore.bundle/www/static/js/pages/couponcenter.a1f6b411.js</key>
 		<data>
 		n03aolNm2cWC7sbhopYrh7baLy0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/couponmergeitem.cdb5bf67.js</key>
+		<key>shopcore.bundle/www/static/js/pages/couponmergeitem.1ee2938d.js</key>
 		<data>
 		1nI6OX0VwsSirki0Yd2cZAKBHqQ=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/coupons.c56cf5cc.js</key>
+		<key>shopcore.bundle/www/static/js/pages/coupons.baba529b.js</key>
 		<data>
 		0gTItqOcZgq5z+2GRB0woadG9KY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/customerservice.e86caf7b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/customerservice.dd0012c7.js</key>
 		<data>
 		qmfFfakQdzjt4Y/vVpb1A/835JM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/deleteaccount.5d6690e3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/deleteaccount.79f11a02.js</key>
 		<data>
 		Sh2gZPPa91wvuVJ0g7AcsJJcGPk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/evaluate.a1a4c248.js</key>
+		<key>shopcore.bundle/www/static/js/pages/evaluate.a8a678e4.js</key>
 		<data>
 		ew+OgLZPgO09/isc0qMhW01ioTw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/evaluateapply.4caa1fa3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/evaluateapply.fb8d3a7d.js</key>
 		<data>
 		02dtMf1DZE8f1yOmG+jPLZ8YSYQ=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/evaluatesucess.c805b46c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/evaluatesucess.33a15f8a.js</key>
 		<data>
 		NrbFKzhz9ySK6LhyOlxAViaavuI=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/fashsale.6734975b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/fashsale.a56f3dd2.js</key>
 		<data>
 		1JLUvBcEDkPcP2rPge5vOxOWVPA=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/generalsettings.4380bb46.js</key>
+		<key>shopcore.bundle/www/static/js/pages/generalsettings.6e0bb8f4.js</key>
 		<data>
 		pYWYzyBbKUpfq4rWOs2or3qYc3c=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/h5login.6c2bca0e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/h5login.ebd4d7a8.js</key>
 		<data>
 		VijVWDaG5kj6siNR168R6BE9u5Y=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/helppay.7034ac4a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/helppay.089d52c0.js</key>
 		<data>
 		OAdYyCWDVESgOs7zfRDnHzVU7FA=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/helpshare.e031cf0a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/helpshare.00920340.js</key>
 		<data>
 		NycihFBxSln2I/rp4FR0/fEChFM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/home.2e0136a8.js</key>
+		<key>shopcore.bundle/www/static/js/pages/home.d05a19f0.js</key>
 		<data>
 		SodnKevxz0bsSzCfz8Gm50KwRhY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/idcardlist.cf0f65e0.js</key>
+		<key>shopcore.bundle/www/static/js/pages/idcardlist.53b4e4f8.js</key>
 		<data>
 		hNUWwYXi6pW78ilCCLtzLwmwG1A=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/index.28214900.js</key>
+		<key>shopcore.bundle/www/static/js/pages/index.178f91e0.js</key>
 		<data>
 		O3svV1uxJbvJF/ItZFS+U7uP8cc=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/integral.c4b162e0.js</key>
+		<key>shopcore.bundle/www/static/js/pages/integral.2ecd6e3a.js</key>
 		<data>
 		AbLWcLCp61bM4+JPgqLDPLAPbTI=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/invitepay.f5b19c58.js</key>
+		<key>shopcore.bundle/www/static/js/pages/invitepay.ef25076d.js</key>
 		<data>
 		gkKXJHKbbq8eb5x732cC4BOB9l0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/item.50c1600e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/item.2623218e.js</key>
 		<data>
-		/BEZwg/zzyBDRZ2lVsX+xx72wGA=
+		wWKFEpGVzSp9da85xstQVBQ1M78=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/jumpmp.a0cd60b7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/jumpmp.480519b3.js</key>
 		<data>
 		SDvwGpQL2MGOPiLYUIMl3jPE4DM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/login.676b6b9f.js</key>
+		<key>shopcore.bundle/www/static/js/pages/login.1445480f.js</key>
 		<data>
 		e7WUOtGwLrKBLwrl1EHj61LxKuM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/logs.cb42d4bb.js</key>
+		<key>shopcore.bundle/www/static/js/pages/logs.22706467.js</key>
 		<data>
 		76/GYTe5BycWV3nolk/yDwFZLic=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/makeup.76a550f3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/makeup.274fefb9.js</key>
 		<data>
 		Ob0qYYxQCnHKQSZ9+mluvpyetT8=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/membercenter.8444c015.js</key>
+		<key>shopcore.bundle/www/static/js/pages/membercenter.4d50c42d.js</key>
 		<data>
 		Q+517e0wHLhSZkCdh5dRDWdlIGY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/membercenterown.818acf03.js</key>
+		<key>shopcore.bundle/www/static/js/pages/membercenterown.a2feee81.js</key>
 		<data>
 		OrIWuMn9cyh238SXvEuet7zGzXk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberchangenumber.078e56ea.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberchangenumber.dac34ee8.js</key>
 		<data>
 		SgX+sfE1UMyUWlcLySquTQyPot0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberdatum.dfabfa81.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberdatum.d0a049da.js</key>
 		<data>
 		ZdrxMe+wONdZMSJEy0+27Yh5dSQ=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/membernumber.c7cb6fd2.js</key>
+		<key>shopcore.bundle/www/static/js/pages/membernumber.163843d2.js</key>
 		<data>
 		lswJQjSmsyuFrVZPEuDeMUFPLUs=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberperfection.02e7842e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberperfection.bd33fecc.js</key>
 		<data>
 		dieHKqWYyW+GhUltfgwjpGuW0n8=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberperfectionown.6a796bfd.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberperfectionown.0c1fa8f1.js</key>
 		<data>
 		wB8uyLQMmdT7MsdpF0L8qi7Grf4=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberpoints.d6ee6d2b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberpoints.65670bcd.js</key>
 		<data>
 		B7VTnx7Zv8+YnBtA4FjBT2ixvMg=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberpointsrule.650f7b89.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberpointsrule.697ef47b.js</key>
 		<data>
 		lxAPRrFlrFJMDlNbxI6wwpEyxvs=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberprivilege.5f4c6ae3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberprivilege.2b4db157.js</key>
 		<data>
 		MM8cP5GwcXAxQR7QNTC+tJX2+c0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberregistered.0ee18a23.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberregistered.bd65065a.js</key>
 		<data>
 		8P+JosKUVN7C82Y0oMgCacbH8Bs=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/memberrightsown.55526f35.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberrightsown.f66c1d31.js</key>
 		<data>
 		Lbih4hls0h2v+f2Kp+Iw2qjmSOc=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/messagecenter.923b1c53.js</key>
+		<key>shopcore.bundle/www/static/js/pages/messagecenter.53225851.js</key>
 		<data>
 		zlQdnYctV7nJ013lCeqnhu5Er1M=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/moneyoff.f668070f.js</key>
+		<key>shopcore.bundle/www/static/js/pages/moneyoff.ad2105a4.js</key>
 		<data>
 		VThB41wd7qUeCorKAYwiKKTbvvE=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/mycollection.f8950f1d.js</key>
+		<key>shopcore.bundle/www/static/js/pages/mycollection.e1bbae04.js</key>
 		<data>
 		wrMO70F8mQOh1Ius0ahKH6th+/Q=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/myevaluate.c135edaa.js</key>
+		<key>shopcore.bundle/www/static/js/pages/myevaluate.1db60395.js</key>
 		<data>
 		FWUjhCMZqPxGrL/YkqnOI8GTSDU=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/myorderdetail.84e6109e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/myorderdetail.de0f273a.js</key>
 		<data>
 		SZwqgfmYkAU02MwOHyf//TzXZsk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/myorderlist.d23e6772.js</key>
+		<key>shopcore.bundle/www/static/js/pages/myorderlist.192e0a2b.js</key>
 		<data>
 		AooCyOQS6SxbWNB8bZYSPcUck+0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/newmember.afdd7cf6.js</key>
+		<key>shopcore.bundle/www/static/js/pages/newmember.e9631d25.js</key>
 		<data>
 		3SLCp2CWVyNAQyl18rlboRbClP4=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/openaccount.03887673.js</key>
+		<key>shopcore.bundle/www/static/js/pages/openaccount.f8c86b33.js</key>
 		<data>
 		o4ruIEAESwqgMQI/9gZ7eXARJIk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/paycheck.123da52a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/paycheck.26b38818.js</key>
 		<data>
 		YC+jxUYg9TZIkPblWbPjoA7S0sw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/payorder.dd9ba9b0.js</key>
+		<key>shopcore.bundle/www/static/js/pages/payorder.fd6da96f.js</key>
 		<data>
 		9oLv/EOxAN7RYFsypf6LjHovwPY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/paysuccess.0aab959a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/paysuccess.4eb40143.js</key>
 		<data>
 		HMtXQU+9P21ojcwkeKyS2VZ+V2o=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/presale.4a94fa26.js</key>
+		<key>shopcore.bundle/www/static/js/pages/presale.685a7993.js</key>
 		<data>
 		0l54msIdqrprFK0MAe98F7SPssw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/privilege.53c47224.js</key>
+		<key>shopcore.bundle/www/static/js/pages/privilege.3f6ed4f6.js</key>
 		<data>
 		BmbWWDSJPcTgAZg3azylvrnBvac=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/prodall.4bde43fd.js</key>
+		<key>shopcore.bundle/www/static/js/pages/prodall.0f75df12.js</key>
 		<data>
 		xXiGo2yBIjBSkjeNphylSwPKAS4=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/productcarddev.e6cbf8da.js</key>
+		<key>shopcore.bundle/www/static/js/pages/productcarddev.abd65f02.js</key>
 		<data>
 		In46BQe13gzgHbtl7W/ruxht6Hc=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/productnew.25a2aa2b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/productnew.6d96d6b8.js</key>
 		<data>
 		ZqvtIYIWX5Mxx37ZchcYCsV2XHA=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/producttoplist.1713ca62.js</key>
+		<key>shopcore.bundle/www/static/js/pages/producttoplist.9334ad0b.js</key>
 		<data>
 		JKjgIrU6QWE80t6e9vULDE9RmAU=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/promotion.d420f8e4.js</key>
+		<key>shopcore.bundle/www/static/js/pages/promotion.82a1ae69.js</key>
 		<data>
 		N7MzLRa+s2h3FAEUMjBdar9K01k=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/purchasein.7f941e2c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/purchasein.f2ce5ba9.js</key>
 		<data>
 		ZLvT/i8NzfJQ09MkEN3mPwMAaLw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/purchaseincheck.472b411e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/purchaseincheck.058f4a6f.js</key>
 		<data>
 		nD9ZX0zLtcAQRG+vgQwCiv2riuo=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/purchaseinlist.93fbebd7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/purchaseinlist.19fac20a.js</key>
 		<data>
 		U7v2D6YfFIFf3YFLhQ57Cg5fG28=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/qidianimredirect.af7d8f0a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/qidianimredirect.b0c9ce4d.js</key>
 		<data>
 		29hpKZinDDuSOTIz0h2aSnV+GiQ=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/querybatchno.c139e5e1.js</key>
+		<key>shopcore.bundle/www/static/js/pages/querybatchno.852cd7d1.js</key>
 		<data>
 		xqX9zrP2/rpSlXI5KhmKk6pFjzE=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/refund.b04b4a2c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refund.ff636dff.js</key>
 		<data>
 		syyS9w8Pf8TY2O501NQiLnd8xNk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/refundaddproduct.1cb76282.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundaddproduct.8d492b1a.js</key>
 		<data>
 		gqaXZdN6BUGj3oEOuZhwLonaY28=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/refundapply.f3ece844.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundapply.8b129337.js</key>
 		<data>
 		xn/z0EFLWgnS8gLkvaaI6V1L/bY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/refundlist.a032efa3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundlist.179e8603.js</key>
 		<data>
 		eW45oOS5ClN15EWxYyPI2mFhjzs=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/refundlogisticlist.169f7675.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundlogisticlist.1017a34e.js</key>
 		<data>
 		+f0aM2qpNXuJjbNf+hDkNvCDJck=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/refundservice.1b6e5215.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundservice.9c3a58ef.js</key>
 		<data>
 		InIsN9tYG/gRuZO+oqrldyTRyU0=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/returntax.48c268ac.js</key>
+		<key>shopcore.bundle/www/static/js/pages/returntax.c4860f28.js</key>
 		<data>
 		Nbo/WIpBv9OdGWCSMj31kELc1wk=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/search.00a5abd9.js</key>
+		<key>shopcore.bundle/www/static/js/pages/search.5a8748f0.js</key>
 		<data>
 		A9JWVNFvVFc5U7DCOofqKoBt3CM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/selectbrand.d26ac467.js</key>
+		<key>shopcore.bundle/www/static/js/pages/selectbrand.f3ee6ccf.js</key>
 		<data>
 		3NvtOImL1ljmiDfeFpiVamuK0Qs=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/setup.18963584.js</key>
+		<key>shopcore.bundle/www/static/js/pages/setup.21add261.js</key>
 		<data>
 		l7gfPEqwo1aSQ80J3bAPHA4gNbY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/shareactivitylist.c77b0897.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shareactivitylist.4148abe7.js</key>
 		<data>
 		Z0BPxLlxwmZI6rEb+ukdoW9A230=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/sharecoupon.0fd0fb95.js</key>
+		<key>shopcore.bundle/www/static/js/pages/sharecoupon.87edc65e.js</key>
 		<data>
 		wuHQuQ8EEZYfkdjgg2gJsbrpJJI=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/shopfront.0c7459d3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shopfront.7d0c4537.js</key>
 		<data>
 		13tUpNetWlTM4HvCVEF+xjJvaDI=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/shoplist.d028051c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shoplist.7514621f.js</key>
 		<data>
 		XetfanlVoaqnbFpi910vf1jy248=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/shoppingcart.c85ddf3a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shoppingcart.8547e86b.js</key>
 		<data>
 		8+p32xGgX+g893IvbJWFIxxwCnw=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/showactivity.ad264175.js</key>
+		<key>shopcore.bundle/www/static/js/pages/showactivity.f4b7a383.js</key>
 		<data>
 		I3O1Qc+spezESPU2AJkSfegIN+M=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/showskin.d8c28cd1.js</key>
+		<key>shopcore.bundle/www/static/js/pages/showskin.f8392a9b.js</key>
 		<data>
 		WfQoOn6AfEEVR+jnCXnv/rL1bgU=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/showskindev.6d466a28.js</key>
+		<key>shopcore.bundle/www/static/js/pages/showskindev.4328101a.js</key>
 		<data>
 		0nyBYxsEQ4XTF1APVyXHumE1Bko=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/substitutepay.02fd190b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/substitutepay.5155eda9.js</key>
 		<data>
 		5gv2AVQxzum125ZagYqHn8M0oaE=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/substitutesignup.65be22c9.js</key>
+		<key>shopcore.bundle/www/static/js/pages/substitutesignup.d2164c0d.js</key>
 		<data>
 		ca79botrTR7Cjy7WjPbOwH94c08=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/swap.d614fcd9.js</key>
+		<key>shopcore.bundle/www/static/js/pages/swap.2a27c204.js</key>
 		<data>
 		EOGw9uv/Xk2Kuw2HNzr2ay/74Po=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/switchlanguage.209e0c4a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/switchlanguage.b95994e8.js</key>
 		<data>
 		/UFyAxVnqI3rHfRSQT8e1fbKzhY=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/transfer.13152388.js</key>
+		<key>shopcore.bundle/www/static/js/pages/transfer.26be7704.js</key>
 		<data>
 		4QW19CgCuNMiPpZ2/fEVWZpqUQ4=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/uploadidcard.5af4e38b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/uploadidcard.631a7ab5.js</key>
 		<data>
 		fMyx06ai28dTUhr+y8AAo7TXMQM=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/usercenter.7ff8bf81.js</key>
+		<key>shopcore.bundle/www/static/js/pages/usercenter.e80f2063.js</key>
 		<data>
 		2uY54LpZQhhXtemd/MMBh+n63Pg=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/usercenterdev.01fa6145.js</key>
+		<key>shopcore.bundle/www/static/js/pages/usercenterdev.df95a958.js</key>
 		<data>
 		sxZp9MaVAzF8erh+8W4jBV5lg+w=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/userinfo.3b3fe2c7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/userinfo.b980e0fa.js</key>
 		<data>
 		YdNMKQmuuLkHlX61J9ecQGVkAak=
 		</data>
-		<key>shopcore.bundle/www/static/js/pages/vipcoupons.d0b7334a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/vipcoupons.5513842c.js</key>
 		<data>
 		gPoOCTMikrpBCMIJlNvj4gQ//vw=
 		</data>
@@ -2293,11 +2293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7HezcMvAABZ9ZZUMky7v3a4lwIQ=
+			w2wRCReq8YdAOV/RRp+slGbMY0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			RGEQFVsmyJmIOU1YXJMvXNz+R7qxyA9IW8dxuabhQ3M=
+			tWyuU1LiL0hqL9nQvpZuQm4LnwZ5GvLyu2PR4nLsJ+4=
 			</data>
 		</dict>
 		<key>DebugConsoleCell.nib</key>
@@ -2348,22 +2348,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qY7QyGqRbyykLFbYYkRx0NXeY/Q=
+			o+UMK8oaRC7RRfQ63H9EsKeLwRk=
 			</data>
 			<key>hash2</key>
 			<data>
-			MbkqeVg04cnOYdoavosE3mvyMdwgoxD2mD/fD1HXyGc=
+			WxGzSry5HjykaYi3Wl+OsxZ9xYzeciP3gzcsykgrxqM=
 			</data>
 		</dict>
 		<key>DebugPanelCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			160EnM1NKfCL/Mg4Ii9qWmCj624=
+			dsnoaV1QYI0tPgEo9ZI8kQcLiVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			WVWFuWQIgH6XLhyifvUPUd9+QTULqo5QyYNy4d0/BoY=
+			KwN3LvFcPLS4WyVhomT1mLZ1jMptuTUyzUZZ8WmeLwI=
 			</data>
 		</dict>
 		<key>DebugPanelTableVC.nib</key>
@@ -2502,11 +2502,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zpo/YCMWJKhiZDlPK/8MHGra+mQ=
+			Q2EEKc5AJhffS5Z9GIWCgvmoviI=
 			</data>
 			<key>hash2</key>
 			<data>
-			L/lLF3l0+K/PeNn6Q2DHlUAja6jZgh9wF7bM1TYjfKY=
+			DwyBnDo11ilu6i8auuvySS2EmOMaO1w0GoMpOmKyF3s=
 			</data>
 		</dict>
 		<key>Headers/SQShopConfig.h</key>
@@ -3392,11 +3392,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+aHz/0HrjWSeL/hAyMOmiOCSxpo=
+			f/eZCqrPHmO/CRvOOFDC2A2ZKRU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gltTc47z1VjAtJl1qsyQIYYiqRaU1G2Po4mSZt5btzw=
+			X/udKxCBgkcuzCA0tJf1p4s+XLAGslfyLzes1kdL3QI=
 			</data>
 		</dict>
 		<key>shopcore.bundle/jslib/plugins/cordova-plugin-device/www/device.js</key>
@@ -3414,11 +3414,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rB4LHSKPHFHcaPcC8Qt3OWjxJks=
+			OtUudpOu0EYtD9GMQ+zWsrWcvvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hyk+2xw0hocJAIsVDv2IhU0jIylYHtDI29lsTagIV9M=
+			4iOt4j6vCL+VvqKyWKyza4u08V/uW3emaBWSn1E8dBI=
 			</data>
 		</dict>
 		<key>shopcore.bundle/pages.json</key>
@@ -3436,1199 +3436,1199 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q8tSM8Er1w945IU37T5lBMsS71A=
+			Fe0qZ5+/A5LTYfJmE5el22WDBOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uak9gt9mu35S1kb0uPhQHe78PP3dY5uj5d7I+99JzFY=
+			Ag3mQQUsbzI2a+JrqMQeSSDq1F4aHfBxYKhNTNKYucc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/addaddress.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GBIw/hjETqiDNyqXUrL/xlEuJHk=
+			VYpZw9fK9eWCt0jxg9OR00N6Qj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtRSsyqHGw+gNCdGg7RK2IDdIsQOCgkS7tmSumpqRG0=
+			dVu5Idv0861x8jZAFeJ865tlBVZqe05q25V4BadNHrE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/addoverseasaddress.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sm+wYwjYKSgK+qVSuNAzN6c0BqM=
+			xHShCEc/U2teJdePZuYzyw1oEhI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mAHdAXgr6EXVGsONII1FG+o01X21G69nIO5/H2CPogA=
+			LGgLLO2pn+DP7eQfj+9Y1yw/JPEICXFNO3iBNNHwdek=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/addresslist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6t3rgYea+KvdEwTM6mX4X2hHQkU=
+			3R/sp73RQ7Fr0shIWj+7gbfIAgs=
 			</data>
 			<key>hash2</key>
 			<data>
-			tWaHc+sMvKFKkspvsYFKxwCUWbGvl3M1GScpUEcX3Oo=
+			4hZJw38GZar9oU7znCXHEs7mKoaPu9Kl20CFSdlj+Dk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/addressselect.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/okZU2GdnNvSdfJ2o1rykVJH+kc=
+			veyXXPtrBrt219rfc2KcTwFov50=
 			</data>
 			<key>hash2</key>
 			<data>
-			/NqChYsyHS89C/PGMOYGwbi1nGUUEFmbZPvv7DG8y48=
+			W4aXhR5SDwDZXIfSlMhAWNJ0LU5OFaUqV4GqudjfufA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/adtrace.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a1qsioIFExInnhHUYk0YqjMZ4bU=
+			dOCyANSvpOJFcidObXajHolsRKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kwj+I4N7/QgZVYKhfwUQiomseSMa21RyUZOp976Mp2M=
+			6FHtcDRDGEERj8YiSrwLV4aLoRMVJDSvUKJwwZ68Y7Q=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/agreement.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			elkcMel9r6ArCJ4oBJy7f60t/uw=
+			hR3DtvpZdAlsWVKm9QYyhPsTp8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			dUMoqXHt50/WMrhjRWrSr8ni2VQWXhgZ/NyhCwx7QY4=
+			xlDPwXJUOOT0CI0qjF5zvN4m224vkUKfVEUnWvj897M=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/apppay.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mmeb5dO/nW+h4l271XK7rl7AwUA=
+			d+vsW/Dsv3GOGtypX32TombV9no=
 			</data>
 			<key>hash2</key>
 			<data>
-			hgFTcTLBwD9Gxlc6ZAJMWY56/cfjcJ/MN7Wy5+VBSjg=
+			FhPSLm+jiFgXQqM3nL1RambDkwqMeTUL+qAVE75cMW8=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/apppayfail.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+8H+tJibF7xoqk9Y3tF2M6G1bd0=
+			R9NDALv34PJdk2K3hHnIfUV5Ojw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bIDrJ0LCk5g0Z4XA6/G3SPp7FfH/nlvGTkCa7aW57Rw=
+			Zp4Lw2jJWg0EYed3Xb4gaKAVHJO/LXavc1nbZ3KxxLU=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/backapp.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DaIzVDKxQ02HUcbIeAlQICFNWwc=
+			vMKR/XdOoXaBOH1aWQFhW2BvSrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			aLvQWDo5/MKQvLgsrvY27u46pvZA6UqFLrZi0Nfcj7o=
+			CiT6CYklaS/D976APtumBLsWU8q+oo1Mnckj7kS8zOE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/bindmemberphone.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e/X4kGF/VpsWu8ffIyiW+e3T6SY=
+			Kat0geWdMmnspTZJfSPRzpg/W8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			eTCOpUuDLcOdeu/w3+7sRg7ZDcyP5l35uvTtBvcdmr8=
+			wsuL8xBvutJmk3SZXRZnzVmRY2ULPeZPTSQ/hWXk+Xs=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/bindmobilenumber.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lq7WUE7leHq71KXzd3ZA7AJ6EVU=
+			znRYFKrwyiIjlEA1xsTEnx7Skeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xqWu/ahIaOv6n/8TJOEu28SeGwL7MUpX83ULLprXWCU=
+			D79Ze6lJcgBsjXQEOqpbN5uRnQZtS70N/NuZYDocb5o=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/brand.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G2rfoxIHH1p2B8ofVD41sqDj7u8=
+			yoappvZKdTmpiFs+4e/3dvMDb/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			ojwK79i2QIJzMrA0N7nCB0LtXfQU7s/Uipz/TjSyu5U=
+			IhKFG/LgMAJsV+0y5czGEfLYU5+qwhJNp4emdBT4kJo=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/btobaccount.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h8bQ2ivEJoWZXlOEgMw+JuieqHU=
+			03niSMCyqRyHMkEMKoljQsej+Xc=
 			</data>
 			<key>hash2</key>
 			<data>
-			WqSFzfvFx8/FsPtuuTSgjLFSAujPpx/rD8MD8JH+YAU=
+			szFWkucAGGGMM9k3NPdbmbXQ5akuPfLKWYmCsU43c6E=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/category.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mP1jdrK3mJlDXMfe7bVFV2ryxdE=
+			+6dl+G8iq75q7sypFXR0lTqR/3I=
 			</data>
 			<key>hash2</key>
 			<data>
-			YG7W+fBpmU2qzTzg2ifs5W0WdBtJ8bv3ZY1mOOFbi8w=
+			CZP4Zh39fO5vUZR/HivmT3KtzNDcH1Txs/JXhcb9evo=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/categorydev.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7CmM90vGFTxdBdI/u7qVPA2gqHk=
+			JfRY9pajoQgKNwQsQdFCf4ybk6o=
 			</data>
 			<key>hash2</key>
 			<data>
-			PCBB+Uw7DvKsv9e54H7bToW+bCOqkVlAyxBHt9YLMKQ=
+			GU+fQb3rgRTG8MMs6O26tPqQdCL3lg0JUa0c4kGSfOc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/checkbindmobile.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2Lwno/BeVZq4LLXXfvBxhFbhZwg=
+			3DwTeNOKMm81kgA3jZv77pLJT7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			OiWawSEjM+PCHq8rJ+SJ1pyXs+gxjNYzg6OHeB2W7CA=
+			mAopP83ZNP1ynSuKUQjnjlYAk0NzQ62TESJaGguLZeI=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/checkin.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KzlEU+WTdojtY35tWPEprI49VRg=
+			EiUbwt5TCeYxUSSNc0SLFmp0SZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kRgzymjcCC2dam7G+AcscerFS9PKqTp3L5xyr5nPO0A=
+			o9o+AiPhmqAl3/wd/cu5z6UF22+1F/KCua66oTmk7qA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/commissionlist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uOldJIts1LPQN7uSRAY1054NO0w=
+			Hv8nh2P7w+f9MEHTRMc2TOaG+Gs=
 			</data>
 			<key>hash2</key>
 			<data>
-			KAXF3ZJAJ6JrsMAzG7SbNCtQUcvEzeu6YlyUvd9zOh0=
+			u+d2QM3C8odr+n6d5kcLyRDQovSBmfwPFzUwebRCl7A=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/confirmorder.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z7QRNLRjneNJdk8tXHd4So1kK98=
+			3j0asfJD6UfXV8GrsB9Nb3xArlk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LVjOdgdqhiudyfyQPHr51/NrX7avCPQgg4b3qWevIw8=
+			IJUd5GyeCjIQAGJWO4gqTumKmus19l2iI2oZlGcjJRE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/consumptioncoupons.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1AXtahrkRuce3UhZC8SLNMvQBHw=
+			Lb8OzG1vLL6VmNZwTA5WkBB+Mns=
 			</data>
 			<key>hash2</key>
 			<data>
-			2YoDQzwIc5nNiXMCcJxnKcyDzN9slku2l69gcTWRemw=
+			73EkdtI8RTzX2hWWA+ZHzx0e9SJS9savFRifWxd1nKw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/contactus.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jbeth4TIutXZHr4HFab/UuhPDGc=
+			NOwCfOJsUv1tJedxixeqhA0KYr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			X0Tb1/HIn+mDepJzv1m4FeHWJyOCYhq+v8e+mJrRR9s=
+			fN0qQGg12gW2hShB58WpIpeRf/eDteDuGtcxJSX4hCY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/countrylist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I5U5y0P53HvT8P6/zuOuAYk+c8M=
+			NdqMaxt4AmgIMZJWf8Co47MgLMw=
 			</data>
 			<key>hash2</key>
 			<data>
-			KVUeP3xbBVkW4SSzgynM1cEKWdoKBiw7E3HDCVuPkYw=
+			pBvoouUUGa3qoeK1g85VU3vn5/sZWyiXHqJU0ECcBKE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/couponcenter.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nvK4XJciXs6csmvQb2S1x4Csd4k=
+			eH2nfRxVpTXaujs8S1lGScgmTAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			iRKgR1MmdLCd7WFrMrg9eJnnfqauqfofc9Mtbs8NpTo=
+			ROs7jM/55WW5++qg+5LW0LSdGWQQjVAdPRRjNp7pd1I=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/couponmergeitem.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			942FRd26PZ8xmEsP5Sr4TAGxRHA=
+			w6Xi+9oerSF9fzoPk682alTGYX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			IO3vEj5++5Gx6xDcgAy8wAfHPcDdYkdO66cgBmDwGb0=
+			Ix8d0+Vd/J+622+pT0CVLvB1kdE8l0FWbCsib9wta9A=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/coupons.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mkpi+rDwUjwBq+0CjRls2ReYpj4=
+			UFXD3sRjyYo+E3M+QwDxj1O78QI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/M3b/k2hLJ6ijgrCDiWquBSDuEk3hSajvngO3IY2Pqs=
+			lUCPDBAE7zWEskAuVemRbV+AjRZMRixKZDcGNMBaqGI=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/customerservice.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sGrop2mE8XT6TJ9h3TVWAkpX0Zo=
+			J80yj76ukH7c8LV3V5DNYE4r2uE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rc6wTA02vL2E59EBZm4jXlvgaEF5XHWxDpdH0rkQ0R4=
+			MTPrzHAS7OIB1TD9h7zb43ajmEMXniV6DTsjWMOpbvY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/deleteaccount.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ew9xdsCAt0X9GBYnoNU5GEBoTew=
+			ylFy0piJqtJDLMZ+jbl5joqZIUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			CELmdLtlZ1ZRFaJh5I33GOpATzKz03O3uV3cW+kMBdw=
+			gPJecPAepdU4JlfFddWLIUs2n7wGHSTsQXuKdMZ/1ko=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/evaluate.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EEM4cSB9+beAbVFegRXN/vZlbpc=
+			zf/DfVX94Wzqarun3HB+VExkCrI=
 			</data>
 			<key>hash2</key>
 			<data>
-			o3eAMMJtCM5floXRgHoEHqNmyJMHalG+7Bv30WsOKck=
+			rKZbej4zLZsljUvGBgpAW/SAAmCMS7o2gCu1X9Z9LAM=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/evaluateapply.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OIkgXJl0gZELqCuXT1PzJ4F74bE=
+			AOkYkYyodGYM+AaYVGJTgVpXa6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			YjotI9hYtYgA5gWKvqHAgiWqzissIMzWIGCMmGttn+c=
+			oIcOpepHR4OJE2CfZIPJc5xeHXQCllhHqvbbwqD6/D8=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/evaluatesucess.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B0gib1FSHR4vMOCsTs2Y0ZKfTOw=
+			Y5hOTuADM+bCa6MjXrBSblFsdcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			W6wJDejvonK6Jp8ScoQcFQKXTFqhNYyUycH6k1sRyak=
+			i5HlzFUC+jlzJfyyZEMDOAdNPmqQ8McNO7GwEAA7XvY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/fashsale.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aU87Eg4ts/uiG3fyKa28dxTqlos=
+			7SRX3YibkbXEp7fUJRgL6t5Y6J0=
 			</data>
 			<key>hash2</key>
 			<data>
-			sVE3fbT9VkmBMFNALNiEVqJfnXhgda4toIJWDi16up4=
+			2FKgATn7cfe3RpObEF2Er5sYrpt1f48Oq0HrgHJcxPA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/generalsettings.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0AuVV6+MQYXGmnXHuTxF9IOVRwI=
+			8u7A3Xd5Sxu1eb8HqFCafWeXi7I=
 			</data>
 			<key>hash2</key>
 			<data>
-			wr6Q6J8smoOIw/u7Xhdefrc9BBarJzUj36Wh0+op5Mc=
+			4j+7A76lq4o7rMySvmxbCJ1sl50gtRNU1Om+k5pEvkA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/h5login.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OURxQKn8wv3cfu2fX7dQRPRLpP0=
+			3cva/NKC1BlX3KN82ycIgk25ktU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/YumtT0/zN3oqHlMGbAWOpwBuXEpKdVbwVGv7EFtcUU=
+			krPpMOXOMT6SmOLJpI1ZLCoGigZ68N+Y2WiATuVWnY4=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/helppay.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UzMLHpFDqyDgfzfPVJ5RhbDC/6Q=
+			ZTO+HaL91eeDYFCXHGtKZvF8mRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			tdVjkjMuSrIhYa6hqDm+U5Z25vf96aKXdSK+PQjcuWI=
+			NqFTcz4PfpEKrHX1QJ8YtVMpmgfEvk+9xRAWgqGJUr4=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/helpshare.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oh9ptwcqyZSA40kuNOxHiO/gWu4=
+			nLYw4q63YN2RLFddwLTUHBZHyDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			piERbSzKLOBpHejr2ijetDEEEHvtSR8SK6RZoA6q5Rk=
+			0Sp40rdzaSYwlX7u1Osj+P5WSEu6H8vbehdRWraSMJA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/home.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LpeN5QGbpUafShQHmIPjXTudBl8=
+			/56fm6ud0UKyDZLupIufTrj3w58=
 			</data>
 			<key>hash2</key>
 			<data>
-			RRvR4xmI0UzzEybTRz2aPUWPnp/VVDUaCHJNCbLC3tg=
+			LW7D+B3jijcEC3Y1PelSGUgDiImXQGFqFvH1ChlsqM4=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/idcardlist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wuvLI6bcmespkgvwY65iLOPCYZ4=
+			yRV6MUkfwJfrq9iUl46PzKFxNzU=
 			</data>
 			<key>hash2</key>
 			<data>
-			vIdJt8lK/Hzn/VepcJr9cyTXew+yfqfiUqu/7ogAbTI=
+			Hx9h2R8uvskwQSnHY5tZZcElmB+K+96o9P2Nl0hheYI=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/index.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5RU6Af/KdCr/qHxwUcW97UEcUig=
+			4uMWrwIyP12Idmm55P36wBScDfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			EC2zH0Qea4fieyg8uzm5fHzv1wdwyR+YnQh77STFPSU=
+			iQotg5NeoSqGxmNWmH/etEWc5fQQ+rOEJUV0bHSZKzw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/integral.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0NtWsqiPj4/RxuNgCfsJW5i52Xo=
+			Klornp00F8wly3rKPN84I5NqKyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			d8QrVqd91nX45pBO8lyvpEOBnMaySUjQ7yNzfGXoYt4=
+			Q2RaNUXET+ffxhp+DEvUCZrG7dC6WCXHCrHiMtJT1xE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/invitepay.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/8NH3fzDResciyR2GNppDw6rfzw=
+			g/aXMw61sbrBjGcdP4tGliN3DjY=
 			</data>
 			<key>hash2</key>
 			<data>
-			7BIy2uZ48rLn3rDnH8K65pY3Z9ToJKMT6jLim9vfGr8=
+			W564L/Muni10jW6LF1dEbi6+CTV+m1E3bW2e2FquzIU=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/item.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jon/2heoLX895SVCi31NUu3vKVQ=
+			yaUDl3dH4CAy63kJlGnr5SIbZMU=
 			</data>
 			<key>hash2</key>
 			<data>
-			tvUHBLLjB6rKQPkpCCVUOygFFJ0ThU2kupn5UqGn+Wo=
+			ESRQYiIvgs4iqb+q4zSB0ybCxrdJH2dBeQ9ICFxP6Mw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/jumpmp.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lhZgQWyFDehMS+QX4BZlY2kzSww=
+			+SLtk7em9mt/c0FPPR8wx+kh9S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			HoIHBFtLLlCPaIiMEXA2Dd6dKk3WhA6lebUDhWMWcf8=
+			q2XSCm2bPT7DyPiLfw4YU/Xm7L6s9YCuiE3AE+9pENw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/login.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IhU5qDLwNUZy2b57Ld0mQ0iSMu4=
+			Kb2AhQ0ft7oQFqz8f1ygmKJVcag=
 			</data>
 			<key>hash2</key>
 			<data>
-			L94aTQA4ZNuPKNsmoQArOsVrrD52P4OxbEAmI4mArGs=
+			QkzzFxQ3WN7e5AHGYmcx54RuIUhG/o+jU/eJNkUW7rc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/logs.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0/HIgBPMcwUdVp/pT4f6EbSlP8U=
+			nBdlPWmLm+XRxGoJ/PYF/+lVjU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			mmyh6xgw30waBp8Cjz5mZsMEeNZi7cNGqABagzUHfgQ=
+			hfjGvDyNMLM1NrtTPKqZS7gnbIF76U7kjd1L+vxo/3w=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/makeup.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OMbkM/6pbFp/y9XI/mSb+3+x/ak=
+			vamDzqUgCGyUucHWmbCacJRjkOA=
 			</data>
 			<key>hash2</key>
 			<data>
-			dRa1c0V2nK6DHXVrn71t4rUPomzj2XG6rtAxY+f6lPQ=
+			0N1Idb1FGW/KiUx2nWHFeanU6sxJz1r3BfePAt58xds=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/membercenter.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h3xYKbZ2tKMDSyHQjZ/400jPsY4=
+			wY5yX2aLJtkctnBvLPktrCATKPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			C2oo34Ohf8yCI2XvFUFkoi28aUT6xu/PtRLqMVjn1Vg=
+			5rJFIHXeCQ4O27wwkjBUAQx9EtDFawIKOfY0F+JJgdk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/membercenterown.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eUKbechCBYwofFSDpMDGwAXf0jI=
+			wlQQybdFtnsgZGBLQhlk68Nei1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			JYsTNK0nlBIs1zCwjNd7nloRYtXBpCW1vKmLnNbVi78=
+			B8j58KgF02WKlLzb54970ipacoAEp4JG82Ba0ltilPk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberchangenumber.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JmzESHeId4mFBCczf9i3eqYbQsU=
+			l2zbbTYxxiJe1ZwSxqTstVazuDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			oIUp0PQkHceK1CVtb30LmLXGnlT7s/PADb1BqwLENoo=
+			+ORnKu/klTtoxvQ1Ufj43GKtLv9oJ4QTEGw0b7Hf/3U=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberdatum.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P0hw44YqRR5YlpUq94iDoknM2PY=
+			ei3DBO2gbvqQeFM95FzPnXFJodI=
 			</data>
 			<key>hash2</key>
 			<data>
-			UV3dsrq73VQZVAOEdSDncyNf1UIVnEKncfqTwsxPaL4=
+			8eblncZPjJ8/gC5Q2l4YblwUQL1ln4UP3AZ8u6zkC4Y=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/membernumber.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nKWmXxQMOGFjHOyEf4AQnbJwFkk=
+			aa/eEHmUhZHVCyp8x0RC/e/Q0tI=
 			</data>
 			<key>hash2</key>
 			<data>
-			NVRvN8EIyq0yBjC8yLAraj1Hdo2GQCEzbxeAcjuBFcw=
+			6t2IXHY/qzHQ+VrEGKVoK+f2A1UJ3e2wOkkDRlVVkbQ=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberperfection.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qm5BWuprGiX0EZ5kayvMgT4UU3A=
+			nMNeN6kqezACdgFU0+V/ItMSxXw=
 			</data>
 			<key>hash2</key>
 			<data>
-			9U9/aQyozizm7qlP+jpuC3W4zGMl0gvmvJm3ofvvKaA=
+			vBIsx66jk2RcrAudTC3mVTMqrKkzPuZvwggcIkBT/Uo=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberperfectionown.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			udSdkzB4atUr2rCoqAo9X0cqPLg=
+			M0D/eVG2KD0hJR+zCPd1mVTxnR4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uO811ghZWlK5qsV4r9/HG4wk6AxdrmVfD8m9527xJyY=
+			IZf4Q+jSoC9RrRnO8Z8SuLbUP/J0EghvoY0RY6/pVrY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberpoints.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HGtVmdT3KUtdcJ6YjvAoxYnFGuw=
+			5HhNY8NcKfDEJ5FZnjC+PNJdO60=
 			</data>
 			<key>hash2</key>
 			<data>
-			FnJS+1wDMEPWMcqhY2ZT7KB3oEpzncF4E5UiXIJsSIA=
+			D+B+vy/pB+Sw9cTYvf02xqbmNrCdZO7ju7ga7H3i3MQ=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberpointsrule.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Yd+xaU8x5cOfyiNOwBESa8Vtq2U=
+			IeVQTk67Cwv6WyInZvXMEykKcl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QRuQqI2rC+HyhIDh8BxNy5Ks3nulHUS7zECvljJYkHY=
+			XjcBZWAaJOmc6K6WJC8yo/EwEIkTuyRGkFuflrH9w3k=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberprivilege.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			USet2pA/aNBENWhULZ20/qs8TXg=
+			bfV2Jq5AUPmMBYRH604R0B1+2hc=
 			</data>
 			<key>hash2</key>
 			<data>
-			S6FawNETecDqyOA0t718OVSJplFHIezf4Ja778UY174=
+			lLEYW9gBivKegaGVttPso8S/1H38cbUJZeLywEfeKSA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberregistered.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4eiMbWstgbuTC4gDQu1YkqkwZko=
+			gIem/Dj7GbceHKQyOCqxd487yas=
 			</data>
 			<key>hash2</key>
 			<data>
-			50zmE0tElbtMySqtp6am4kluXzSu5AgO9fIY9iyGdtM=
+			ftqV1+43WYpHXgq+8XLpyQxNgRvkytGVebeN6iBcpy0=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/memberrightsown.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BP+rqAnlJ1T6QXg/c8giHg9eiXQ=
+			xQOUTVCFxUH0Zq/25SD5ZQfMKds=
 			</data>
 			<key>hash2</key>
 			<data>
-			UhU2CGRlUDHlleC4Pl08vJeypaRs9bo6RDrtHklLYiQ=
+			rva+g3ghMCNIW/vTz+w3uPJhaX3P6gitZN2gHJldxlk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/messagecenter.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NnkyEhSRemODLv6HNoBwQzqOajU=
+			PgThJvfDP3EH5iI3yg5XVxF5iA4=
 			</data>
 			<key>hash2</key>
 			<data>
-			iA3Y+9lG80HTRrQa39qRKTx1S4B6HIPFysg4o+WJp1g=
+			4Y4gGRZlPoB7qlwZi+XOpOEYlCXmqg2pTGhFq+ZFQYY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/moneyoff.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oAGq97jD1tnY8UCOzw45fjhcjRg=
+			gqX0RVM6yr7egxk/qhRLQwEI3oo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2bUW/GPnepGq33calRJTaAhYpO5RtAErA7p6s47emOc=
+			Z5hit59h/jR1s/lYZIsApVbZWsjUtKDIT+5BvXH/vOM=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/mycollection.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DGwQG37UsVJ2pZCN1UueOv6UfJQ=
+			ySxYGIDSQlknBoYNy7DYzGhzRFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ce8gtX2s27wGvSmc88ROGCV/N4g+/tFvuT/fX02SG18=
+			PrbW3iHRC74VFbQ7L+CnmBlOS5zjBKXGffxe7UI7p2w=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/myevaluate.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FrYL7vZ6kq9k/oV24gTxpAhkO58=
+			XcaBchxVBnOAHrj6508InqhbraQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rb8BRpyb8LzcFs+M8xxoukds2WOIgJz9hITX/EEOOoQ=
+			H/1UH1P1i3h8PrzJQpO/5HcYx3BdOra6LbRcwtP4zpw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/myorderdetail.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hR+2t/8BLHc2orsHeXIDa/zNAFo=
+			qvtzdrisS++7JRyCju5/N+hoUHM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ng2d1Er71vNVKrGm8/VSzRf2N5WFntWYKiIaT7FvmBE=
+			Tr3FtJ/5Tc4NDfrfg3ZQDx76SGJ5BwLnzRmXfSiTKJw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/myorderlist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+Rp7iU9UC+MzCVxsR3UMdns5Wlk=
+			8/zeJA5xmucitLBwG718EQ3FK/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			IOpGCVsB2uCY41ESdecxcITw8h90aL8DSWJyf6/D5pw=
+			RbExVMCdUdrvoWOxNnfobmtvJ1jPxawLeuOKqOYC/kc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/newmember.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AsYALl6gfTns8PkeraIYt8Y40ZY=
+			KD3fZpRKzpz+9EFWxFEUG0sEp8k=
 			</data>
 			<key>hash2</key>
 			<data>
-			RG/gVDJW13JCXukmMTCTOJ7rMNEmpSbfEMmuMT05NVU=
+			hf2wxPrjlZiBmWhxTXK/MO7cmfSUXW+J1SfROeuEffU=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/openaccount.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a40x/J5mpU9ziOGWQDyaNq9KOPc=
+			JYXHEQjkMU4LkO0oE+K3NshWF4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			p6C8xTZBTv2SOfVfjSmLCcZQf21MRlYwJJRzkVdle9w=
+			DBvYAyQgrPu01YA5B9qxMHttmTwWCWD6yovkA13AAEw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/paycheck.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GVMSaEbKq/9a7KyVT4oZvq4LVlQ=
+			l2TBf561/Ak/p/DfUXDY74PpnuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			yVdwlYW/lJ8HPRYKGtVDNnRVIqWq5FeYNc5qcBqEAOQ=
+			iI7NU/6pq+JWouR7xnvSTlvnCONFD2MVml4U4izN8xg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/payorder.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			orj/0Dgq3PkIFEVzVOe6E6Y0H7c=
+			5jHzfMwpBCTqBAClryQUGblcHfA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LpxRa+G6pmmu8BlhRMsKFeF2xVnElezifM7uIODSspI=
+			tDiZyRFapcHZw+XRXe9ijirVYSxAfif9+K7aWGyOqLM=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/paysuccess.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VeW9XBGKVSwyaTSudkSrKQCnqWk=
+			7NCU5t9g2TTsNiiMfdvoaJqu7BI=
 			</data>
 			<key>hash2</key>
 			<data>
-			gYwaBuKJBiOyl2NLkVR7snG+KeGJ+mSMzW44NLAQQzU=
+			EzH52bYsZ520Xhcke3IOPRkV2QFsv3uGLYuZpTuWRfY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/presale.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nZfqwmwkNtO6yM8NdCLt8lxOASM=
+			nnaE7W/72EqsPxxiYxk7TVhsiio=
 			</data>
 			<key>hash2</key>
 			<data>
-			EySuM27Sn1Slisj39Nch+C0PNnMjdCB1tMh4vbhZ2wM=
+			j2xGOpqnatJUqdCKBPpOGJuvV7i/zACoNHgEKTNOMwY=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/privilege.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i+D0GplkwSn4yeFsvWeD1TyE+DQ=
+			f/1q1vmH6hb+S0+2O/wBkOANybU=
 			</data>
 			<key>hash2</key>
 			<data>
-			K3FB/uupoM3BvcYemjp4mwQd1WBFxt2uQA+WnMNjvdw=
+			UKv1HnLBUqtNi9WxpPpOaPbTonnWCn+K198xkEQ40vs=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/prodall.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			syNXmfUrd5y/SZC1DxuRD5LViJA=
+			R/cwTGsYqTFFg5Wepy20sXbeElw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ZQAmrKonwJqrGZsFac2TOdlFcj9HUWIavGLC6tUTYY=
+			cPamknrjoTKtIJ9u5+A41nRZ4LA5ZNLCOrna3mmaTmk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/productcarddev.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yN4EYsMylVfsCGyIUKdT8O1rOu4=
+			9DoOfyBYy4Emm8/qPYcQoN4eD0A=
 			</data>
 			<key>hash2</key>
 			<data>
-			gVgzGAXPwz5ktXOSiWjTdSRq2FLRzpmhDMhNevrm4Dc=
+			DT9LXwEF21Iz6TVPza2vfVYuU5M6myMGfiKcFd1EwIg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/productnew.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xkisSP5xS9Nqg133iHB09CoXlmg=
+			AAysjSlA0b8p3/k8CuE1hs6DEUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qwnWHiIuPzcc/cqPPxmemtOS/Y3ciHrHKwR+LbjYryQ=
+			fWgBrb2d8LM5AiywXzxCPkKC3euTzUee/Yi6IvboKSU=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/producttoplist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2DirLBpb5bDBUDFt+Kj523RLTWQ=
+			3qklZAMuOmayvgCt1Q921PFyXtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			UcSVvpWv2VB6IbE87rxkfDu/b+WUzZ54ZVYhpk7kWhA=
+			xXOOOwdYUopuZV+hp4yiY3uldP4N7QbC8V1VxSOISrs=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/promotion.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+TUChwZQCQTjJseHRZCuh6JvrvI=
+			USbrosRO4UvDJXFJQe5EFiBItFM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IGblrUrjyeR+urV06n6Fb7XzLrvRCnvi5kEOQPykuaY=
+			TEVDwGdY8ueMuxyZJOQ+8cIV3pdogwCJYioBT3FDFrs=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/purchasein.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0c0HI7kMVSjilHGg/aUjZQ0SIx8=
+			BtPOUHlQzifi/Vd5Nq0KzxQS7CQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			5QEEKaSN8rwdox/NhRUuB98jelS+zeGrElOLoWWWdaw=
+			Fm8APUY63FOWVBKsPR/A2i1nzNOHRUb3Uaf8am8seRc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/purchaseincheck.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PQOrlIWZSLqprF1a31VWgR8EYmE=
+			/ZZ5BYHkELb6Dch8EQCtILelHAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+oz65eO3ivGIMSoWurx8dbecaLw39qt5kBf6DoMBmhU=
+			c0c7qKSjIH8FleUTUuwkY0EgorvOuLW1Zu535Pco3ig=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/purchaseinlist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7meSqpmeUbJpQU7/fkG+FqQZ0Lw=
+			qK49C9afkqiTAjdFilNf5m0Q74w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ncalaY/0/J8g4to55nyTn/p5ernPbjNWQX7o6pwR0j8=
+			fb6Sj6O+hPdxvHMA8VgZHsvTGrWA1Ducea9ONJbh1kQ=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/qidianimredirect.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4kIaXeJ3ATVhKSyvRe5+nZAS5WY=
+			WzaObMkfO7J0QDiza6Y/ieXauwU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Un3lemS+qAfjOirtS+mF89oQjxUh9Vwzv7xOWPyP2+c=
+			FmXD/MOe8L4YyOxYRZiN5Tv/cgnsOTEw3MaOhalfQfw=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/querybatchno.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p+4Vz8YOsREn48vPksDrHscuBlc=
+			NwDjwxkMunFQZgdn5gSVoaNXxro=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Pmtn8MccFRRXiHHelEQrPPqG+2P+UHB7gHNdcLx8E4=
+			AJnjkWmxOeOIz3PthvvqIaMSMY7nPatsnn5vXxpv1wg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/refund.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6T4/yMiKgTNocCB1A4JkQTlZrR8=
+			X/jddJxfPnD8herLkk0GUnD2fBg=
 			</data>
 			<key>hash2</key>
 			<data>
-			++f5SBShAcBKZrCnkWcsZXCQVuBKhWgwuPUaw+Bquac=
+			yAy+PBaqgVG290skhJCzKC5vRF+HvS5YKO60zAYEiCs=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/refundaddproduct.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z03EYB2BLzNh2X5DAI/RGAZMHEk=
+			5uScIu95IJvv1TDnDCum+66TRrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CndFuOVTs2/GAOgH9aEDWnU9lnencXCX7ejYLTMagpc=
+			RLEyb+2cNzA0RTLI0BuoRmKNgiGhdXL9g4mXOUJaFRg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/refundapply.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bOB+SNiWrmAnRaKLlzgCke0i4lI=
+			fFkk/EufOwCWVs+LawsP5B7/HNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			C1cf5gtqEYl1pm7FyVN2IcOff5Oxh0O3sALnaxwlhNQ=
+			FUhXaG1Jx18kH+5rsHjIekp0WfaMcFNdfZ0WWDBVMis=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/refundlist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dHspn/sOeY/sc8otUqoz7ZUJDN4=
+			lSpb2BKbLIfOKeKNHL4u7orrGbM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gb3mrh0klCfLgEx0LiXLTLNai22/NzqDJF/UjPkZVCo=
+			ZrJFskkC7NeiPOaEfo0/GraUEQORIEoLYTVohp8+caQ=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/refundlogisticlist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HsKdtsFHdz5s/RwCVL+753fJWK0=
+			h6hbS4PXU/2CfNJr2oALvh6ySXs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mHFQVYrHZkyv3oVzfavrjIx4PvpuxmFUhdTx+8eqgXc=
+			3qErycEX/gEAguiPlWWPHvBNtD5Ha3L3SMaC/M2UX4c=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/refundservice.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qnuvbmLL/J5LnGSf2/hNaxGr4vs=
+			8eHY9aAi7Ca6zaMWC/qAvrCAKfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			rBYFpxqcO3nF+BMEIE7xbEav2FM3XjRLYJOzFM2djzo=
+			9A2vZoJFnPUtgVBxAPriKLgHAQ8LqmUOhWzjO1tpAa4=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/returntax.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Sr8I0xKnL+fJJWKgNaMPRjndpAw=
+			8R+FJ78wutJnZGUY0E48bpvgwa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			T6NLU3VqxL/KEY49JUzOTTnjUBQDZ9X2yNx7ErfkX4Y=
+			MbnhfNYCk6hkw/7iTA2kvjXWs/+X0OuVcGeq2JaDncc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/search.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZKjKFRbJLxstn4jmZpgIXABuxik=
+			SIPPIw2fWaTNvqk7zc6dCbzF8V8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1xyqB5dIwMYzgfz+oLj51yBMENk6PRVPZlhYnyDTtaU=
+			Uo2vAkGC5CmnGh0AFAsQjGrpS5kdl6lcVwAGoBsQRzE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/selectbrand.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZXBvgk+7vDD9FtRzTep8QDXh7XQ=
+			wo78K9g909zvJhqa6r4U2w0t6BY=
 			</data>
 			<key>hash2</key>
 			<data>
-			pSkmfIBIEaxp9QEutLxWaFdx3vAFpgXuloSNqzy+BS8=
+			Duk3K9lZAA/VQ7oBvbICpVShymzoC4YA+OgAz/q7bB8=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/setup.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q3aOomcA54RmjWdNyhn1iddJLJ8=
+			KL6oN8lvrBPTz+9Y0RoQtjMDYEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			lMXiyp/5Owk0oWxA05oj+LkHPl1EDl8QeSKsT5+nmNo=
+			0gelSAMfjJRYasSJ0YN3JJGF3JsMuKfzxJLUlCxxDjg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/shareactivitylist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mbcl7ef746nk22uoY0ZH7tfqSqQ=
+			psj4jnVVywvrmzBovJs/Vxs5cxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GkYrxdqi/jHe0E+oRyPdbmr2WWt/G2cvWa490Ih15v8=
+			tSJMg/fz4GWv4SnvqLxT4395t5ZOVy9rR1WMgjIgv3I=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/sharecoupon.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1T68nIVJBZRde/C1pzwGkAFd/8M=
+			RZBJODgswKLFuwYMs4mmume5RCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			AvM+NuvWVQwH7ZtT4HqidMhYLzDp9eYDWHWpItPq4bU=
+			JsPcjE3H1S+AiTEQeuUZzEpAH0K5kV8u5yc90K8xfWg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/shopfront.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KJ+sUTCGGYfxFhYAAQ2Hz3akc/c=
+			a6sMsvaEH+0s+WVVc55J2rahHTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZU+dXfaohhq7eaz5gMCKnablmtEGDu0VngCRnDlJ+3A=
+			dwlJAOnUDeHO+FcsL8qPTCjpYrC85kUpZK4e6yQfYIg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/shoplist.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bsPR4OaUvgBt7fb8wXie1iEZrcA=
+			O/bs3ZOzOazBD3KQN6eeeywmv+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			B+399obAiMJjCm6vB587kYUd/KNL1uT4EO3rablMYJ0=
+			ubrWogs133zeJBY4H4oXhVytqFI4nlcS3sQHPR3moGs=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/shoppingcart.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yN5JCZcZjn3nChSrWjDmIBRmimI=
+			lq2KFU0lan7i0jmdvHHuBM6EnxQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			fmz/djSJWUT/QVmpSXsdQa1cmL+BG8HfiPSj0OLhOCE=
+			SYeEoewj47JH45pfho54Rhij8y/z05vR/4Ebj19vPfE=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/showactivity.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mbLFWdNt6Z7LKNkkbzh6hzHmDK8=
+			dQh9MsQyb+Ei0w1A9fjqtEcB0r0=
 			</data>
 			<key>hash2</key>
 			<data>
-			pWywMI9Q4P6x9DDl+cAEHTFc39AN5r+2n9FJYGcpAoM=
+			17YI8ipa1Nl0pPwnD4PU4/JZLSgnCijTBp3pOb3pYss=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/showskin.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yRs29AuwXAl1f+wPZsd/AgHAYFA=
+			CUi04TyHnSJRZK2fDkTlJl83T+s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kf+lqITM5Ztz6UTxa2zpixGu5JA6pO2cKG33H9yXlpU=
+			8Fmh10VnrpNxZQeaPxNY/OVpc6hzjCpyX/iyqKxdTYM=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/showskindev.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m1qu5XcVTCaRcLkd9Xvijv8GFuc=
+			/CUO5NV7yZfok0wsYRNoLlExijo=
 			</data>
 			<key>hash2</key>
 			<data>
-			efhhF0Avb1NsvMYXEvXrcEXjD7JsgJ462LEiVNYgFYQ=
+			V4ZzaBq3zXClzc0O83WbFqvRHXzYwwO8ZNzZldRoguc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/substitutepay.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ro6jeW1Q68iTn0spD5dHAn6PsrY=
+			w6PkzHDU4pFm/H4H3ciBVdb7IUw=
 			</data>
 			<key>hash2</key>
 			<data>
-			3yztdIcRSfWkNyQOqR/Q6QDw7UnpagTUtEAb9JqoX44=
+			VZCtJrff5Q3Z1HIBWNLrRdOeMQdcveB1RcjX9ZyE3T4=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/substitutesignup.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I5vlgeWKvm2Rw0sflHruNqY05H0=
+			JmdkzbxCQScXTWeRmpN7P8jnqZw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ErUTBEoy4xv9Seqd82Re3QXD42wUnaULI+ltXhWAiss=
+			q4tM/EYO3vnt4FUMyB625KGMXUOmjf3jDT3OHVsSCAQ=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/swap.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pZO0vyQcSjqqhXYMZufJEpI0dyw=
+			y7CBfq7Ezwjmt7RUl75TcRgA63Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			xw4EAQJykTaMmZH17xMfD1iYcUM+cNGk51qQHdYmBIs=
+			k7eYKiVqD0Ij2nUV2k68CG8Ew4ElU2OfyecYguIq6bo=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/switchlanguage.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4YvT59cAgzUg+dW3n/HTboDXsuQ=
+			nXfCeX5frU01XXMdiRPMDLQ0IvY=
 			</data>
 			<key>hash2</key>
 			<data>
-			CkTgM1nW4G/5wwhI0nxMnKSolSnoYsPw2q9YRmbFrTU=
+			UU+7zJzbu66uv9vckZ78i1VnYolehPnkXvYi4hXpk2I=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/transfer.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0Q/0xwz6lV/YUcdEpT1aig/08Z0=
+			5YQdFohPsPz7RoJDy/aNxAwPtaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yDlL3D5Sy5+li+Ik7MznKNIyEA0g/wdqM3ccwolOv4I=
+			nOqhbctPUZP7y9iec2/QuU7FveM1e9PcDBySe6T8itg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/uploadidcard.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CWLtFjCXFcxihu/JIy4/2xI8gEc=
+			YZ+2ftYdwjcpkMZwuyKc5e7AtZk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oq7HxWFsIW8G4BTr0JB7UD9zO8QI9IJrScFIDHE40eM=
+			/bwxOHgLL1uBihSMEtHaxNyX06x9h09eYDBZ0X8vJT0=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/usercenter.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RF5WivoQq9zrgzucM/7/PvYvRXM=
+			OQIgtD833K3YyfSD15k2MYVELZ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			cPEwqrKrQiwdzIlkgQAJT/0H1hjTxGZDGYgMpNW6MC0=
+			S8hdE0WHbZiMpY92XVqY9neOXkOrWeg/OF/MkNIXPck=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/usercenterdev.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l0R9KJEB9QD+jGb32kyP+tbOboQ=
+			vsAII+W8A7m/HjjgA5Y/VV7LwLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cw3Lf/LXtLDpmxO5zn8mAEGulXscA3MYNcKr/zzFFVg=
+			GD7334mIw7bjW97OAHUBHgpzLfqRT1jrL3VxGuR0/Mg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/userinfo.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FtxO+HntGmi8c5B9743Hg1EjUL8=
+			zxQVndmmpVlskfmYysLYP9u4HHw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AD1Q+ozDHe2Rj6oCupHsT1Epf0NMx+yQge9TBieYFD8=
+			gx6YNT9g9TV3v5md4TMkVaYZHzRUYHOfsyuQRLksxSk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/pages/vipcoupons.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			caIVrf4ImM6FMkM11DZZgXcvHQI=
+			AdsNsivpBONZqJkgS7aJtvatlCo=
 			</data>
 			<key>hash2</key>
 			<data>
-			UpPky4IVdA0gaPPC4/15KRmts5kYV7xEjJHzmoqn8dU=
+			4MuLJnhRBNygQ6pbnEDOOhhqE+Ow20Zv1COeaug023s=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/static/css/011840d29d.css</key>
@@ -4651,6 +4651,17 @@
 			<key>hash2</key>
 			<data>
 			cbNyoET/PvbnW5c6+KUoe/0Dxq24wPxsgofTY/BEN2c=
+			</data>
+		</dict>
+		<key>shopcore.bundle/www/static/css/03b6915d78.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GWndtCG44i0FPJIxU1l4b2FB2Ks=
+			</data>
+			<key>hash2</key>
+			<data>
+			ayKhhlUd8+OyiXwztuMI5h8ToUCImeBGsxN4UOFKOAc=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/static/css/0bb248b643.css</key>
@@ -4706,6 +4717,17 @@
 			<key>hash2</key>
 			<data>
 			67Yl/JukS6jjJuS/TZzi/LeTbvBq3L6zRtwsK1ntutI=
+			</data>
+		</dict>
+		<key>shopcore.bundle/www/static/css/18064f6ff8.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/D45ZinXtYg2cml5PUnb0T9A6wM=
+			</data>
+			<key>hash2</key>
+			<data>
+			wsSst4B21plVdwvOcZqlEF/6m4rLvT5JHrV5lQrU5Vg=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/static/css/1a187a6c67.css</key>
@@ -4829,17 +4851,6 @@
 			F53igFojZQzcKXdV6Ucc3r/+v4lhguZQnPr58vP/0kA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/css/3befc0cab8.css</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWIgbuPe6iZggQ9FemNvPOU8S5g=
-			</data>
-			<key>hash2</key>
-			<data>
-			f0lS1g2kwmiRYFYy422mn+pQy8DpqEuHC/htDQFs4s4=
-			</data>
-		</dict>
 		<key>shopcore.bundle/www/static/css/3da50ef550.css</key>
 		<dict>
 			<key>hash</key>
@@ -4959,17 +4970,6 @@
 			<key>hash2</key>
 			<data>
 			1Ls37RfqXc/SJj43T9GMpJSvhitJja4EuqPB/BK4N0U=
-			</data>
-		</dict>
-		<key>shopcore.bundle/www/static/css/586ac4e7f1.css</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q0XG2kEhGP/krThzi6YowQDVulo=
-			</data>
-			<key>hash2</key>
-			<data>
-			Jxn8iItn6qzNHjA45E2MLleiC1uOSBG0Mjox1GQR3QA=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/static/css/58e9252eb3.css</key>
@@ -6468,15 +6468,15 @@
 			Qa7vxKFhEhQXk1A/UKFlgzKQggrDZwofDeeMF0zVZ2c=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/chunk-common.ca82cb20.js</key>
+		<key>shopcore.bundle/www/static/js/chunk-common.f2028a60.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7QERyISihvNQD7Wa8CxFPwMiW+k=
+			1KIlO+fAhutDWrGmVIkSPr/+WF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			U/+vsxZEhjxdxvCP4z5DARjKP8eB4RMH56HhlyYOoQg=
+			sRFM6yOulQehnpQmi3gVWVC35Ykjq+QQnmjVCQBDODk=
 			</data>
 		</dict>
 		<key>shopcore.bundle/www/static/js/chunk-vendors.c1a42924.js</key>
@@ -6490,7 +6490,7 @@
 			rK8IVwvCG/JdqBZSF27IFTWew38INKKO1m/c9EwHG/o=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/addaddress.43510fb7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addaddress.04492040.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6501,7 +6501,7 @@
 			QK+7ed6ys0EllRsAEmCn4m50wmC83FovPnVkzLV1AsA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/addoverseasaddress.06fff161.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addoverseasaddress.dbe21f44.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6512,7 +6512,7 @@
 			G8lELM8oYZXsh0s8hk6QMWvOuou0LN6uS92nmZUObyI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/addresslist.792fb9d5.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addresslist.6260b9a6.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6523,7 +6523,7 @@
 			rVxswMUd5yU8vrqUCekyZOO4Ix/7MZeyXrbXOyDsyLY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/addressselect.6d85afa7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/addressselect.ec39be64.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6534,7 +6534,7 @@
 			O9AJWkg4XYAShrJsehO7Ro5ZEy0rn4gIC5od99fggyI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/adtrace.44901ff7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/adtrace.8e597715.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6545,7 +6545,7 @@
 			FgRL/Kgms52xXkHa4s4/yO4YflfBojfrgCnpbOgPiJ8=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/agreement.c7f89ded.js</key>
+		<key>shopcore.bundle/www/static/js/pages/agreement.fd3c9ee0.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6556,7 +6556,7 @@
 			ine2W+LULcLbPtsQi8hD6VZIkDH00mYtWpTryYAp1hA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/apppay.a3ed3970.js</key>
+		<key>shopcore.bundle/www/static/js/pages/apppay.eac5403b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6567,7 +6567,7 @@
 			nbyAh/OwBd5B1LKH2clS7Rwf2QEmedvFZLoF/jJeoBU=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/apppayfail.b6c62f02.js</key>
+		<key>shopcore.bundle/www/static/js/pages/apppayfail.4c0766a4.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6578,7 +6578,7 @@
 			XBShdRhzjbW/COcP2pp1r8qG4vr7oi2EaS03UXC+pXI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/backapp.bdf3a0ed.js</key>
+		<key>shopcore.bundle/www/static/js/pages/backapp.e5e5d88c.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6589,7 +6589,7 @@
 			Q5FMr5oBvz0qng9yZvXxNuAK1OrtHhVYuMeUXLPthh8=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/bindmemberphone.046b87ff.js</key>
+		<key>shopcore.bundle/www/static/js/pages/bindmemberphone.2c061ba9.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6600,7 +6600,7 @@
 			I/o2oE2Gcm7oG+i0MrnfwnjZneSkGIQdak1rGTRQcnk=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/bindmobilenumber.dbd9d04c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/bindmobilenumber.f0807b2e.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6611,7 +6611,7 @@
 			YeGwPVzUD5rf7AFhLDH4QkZAkCKRmwmFZNxTRgkACZI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/brand.1460387b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/brand.c9a3c263.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6622,7 +6622,7 @@
 			jQ5YFlG/6Hky2A37xo7wWOA7ncPtKpEc1wS/+96EO4A=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/btobaccount.bc1e1d62.js</key>
+		<key>shopcore.bundle/www/static/js/pages/btobaccount.3deb99f9.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6633,7 +6633,7 @@
 			Wh+imsGPbAGIi+aMEkf0p4t7fiU6jPJVNE+ScSQ+Ka0=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/category.b8c91a6c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/category.9611c963.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6644,7 +6644,7 @@
 			Q/NWhMXh3xKtY+PhVJcb73esr+zP3Zs5FyuIM2Z20lc=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/categorydev.01af7171.js</key>
+		<key>shopcore.bundle/www/static/js/pages/categorydev.bcf5811c.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6655,7 +6655,7 @@
 			iTJUSB3DpoDsC4oSfjW7iIwA1Eg3iGqoCnr5xxu0WUI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/checkbindmobile.fdc9f1d4.js</key>
+		<key>shopcore.bundle/www/static/js/pages/checkbindmobile.acdcb69c.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6666,7 +6666,7 @@
 			oWCTqCXrma8MXHObw3t2X9kKOSwcU7BRx94gtH4XFvU=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/checkin.34af00ff.js</key>
+		<key>shopcore.bundle/www/static/js/pages/checkin.d1e9425e.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6677,7 +6677,7 @@
 			JNh8c7qzEHjP9bBpjrhRadm4eHh428tNchnsCxSjq0c=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/commissionlist.9fced2b5.js</key>
+		<key>shopcore.bundle/www/static/js/pages/commissionlist.c011b1c8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6688,18 +6688,18 @@
 			eTOmPYHqFqVc/KokMy04yHGLQwv3ItUNgm1Zr/z6g5E=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/confirmorder.61620577.js</key>
+		<key>shopcore.bundle/www/static/js/pages/confirmorder.cd73e37f.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7dOfzbelyw48DJ9kohpcXy/Pylc=
+			lNMy0gHeBOKz7MjaFaQOniIoMf4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/bB9FCJ5MFQ7O0BFT2ZhR/tcICEbYseildk5IpWps3M=
+			SE9twT5t2SzPDkiEeqYZfuCr5epn+pyrzfFc3ArOZYU=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/consumptioncoupons.09b29487.js</key>
+		<key>shopcore.bundle/www/static/js/pages/consumptioncoupons.e3428257.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6710,7 +6710,7 @@
 			AcD0NsNicMckB2wxSQwZ6b3fKEmB3swhuMynebvhP1E=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/contactus.7e9ded8d.js</key>
+		<key>shopcore.bundle/www/static/js/pages/contactus.ee2cc2c8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6721,7 +6721,7 @@
 			JIMHkuvLBY3CWcnO9GfFHkakfS3KIB36ydFW5Ikbo7Y=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/countrylist.ce26aae8.js</key>
+		<key>shopcore.bundle/www/static/js/pages/countrylist.d71c63da.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6732,7 +6732,7 @@
 			N3W5A0eDRdMUsVMO1p72xqMbkVNXhh45uxtoklNkSpo=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/couponcenter.666b9e21.js</key>
+		<key>shopcore.bundle/www/static/js/pages/couponcenter.a1f6b411.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6743,7 +6743,7 @@
 			IcNWsXpUf6LzzCqA+wZqH7S5rTbqznaGMie7kIOLq3w=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/couponmergeitem.cdb5bf67.js</key>
+		<key>shopcore.bundle/www/static/js/pages/couponmergeitem.1ee2938d.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6754,7 +6754,7 @@
 			Zc1Vuf5OeSJw67TWwBnmNWhErtLQZaiBgGL9WHVHFOI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/coupons.c56cf5cc.js</key>
+		<key>shopcore.bundle/www/static/js/pages/coupons.baba529b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6765,7 +6765,7 @@
 			S2DGWRaiiMN7rLV0f9yL5Ow9WjBHtk21d5QNVu189oo=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/customerservice.e86caf7b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/customerservice.dd0012c7.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6776,7 +6776,7 @@
 			BrvPPMKAe44613gjn5N2mdPxxIKjNfJU4sfX13q8p9Y=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/deleteaccount.5d6690e3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/deleteaccount.79f11a02.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6787,7 +6787,7 @@
 			RcVHISDHtxvoZeL258Izkf57KcUpvzr6ooYe2J0Aayo=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/evaluate.a1a4c248.js</key>
+		<key>shopcore.bundle/www/static/js/pages/evaluate.a8a678e4.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6798,7 +6798,7 @@
 			SrxDAu0m8p2MXASPBssrXZHprpMNSaYDrvj9jtECdac=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/evaluateapply.4caa1fa3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/evaluateapply.fb8d3a7d.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6809,7 +6809,7 @@
 			h4KE2uEqQGk8aInrrAMpRjbhxSH/XvfsLtdG7bMze5Y=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/evaluatesucess.c805b46c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/evaluatesucess.33a15f8a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6820,7 +6820,7 @@
 			HVh7sESFt9+GdwT1EIfdD244+WNovmdVLKoxtYnsyEA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/fashsale.6734975b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/fashsale.a56f3dd2.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6831,7 +6831,7 @@
 			MtbqAdBEi8u6kRNA6wiiJzK7dbsxUAejhC02obfK8x0=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/generalsettings.4380bb46.js</key>
+		<key>shopcore.bundle/www/static/js/pages/generalsettings.6e0bb8f4.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6842,7 +6842,7 @@
 			L+qxbN852yEE3Ng6VSIz1d3jOFBWoaSJpqMnky8ptDg=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/h5login.6c2bca0e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/h5login.ebd4d7a8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6853,7 +6853,7 @@
 			7LX0oqzamKaqwLUU5e9YqbpyAc1+P9zpu55AIdFKbIQ=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/helppay.7034ac4a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/helppay.089d52c0.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6864,7 +6864,7 @@
 			FuXbPNF2cqIxutCp+RgO5xQ+UOVZv9xW+2yf3R7Gow8=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/helpshare.e031cf0a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/helpshare.00920340.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6875,7 +6875,7 @@
 			jqazNaup1VF85+3Mypx69oy7ByClKb3HlyfqeV8FmhI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/home.2e0136a8.js</key>
+		<key>shopcore.bundle/www/static/js/pages/home.d05a19f0.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6886,7 +6886,7 @@
 			0SrSOltvWXYmp9rlYymA6VeZz4Xf5qwZ9q7l4SGajnk=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/idcardlist.cf0f65e0.js</key>
+		<key>shopcore.bundle/www/static/js/pages/idcardlist.53b4e4f8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6897,7 +6897,7 @@
 			drYPN9jfatS/s5Eczn9omG4ltmpxdiBKn1rB174F7ro=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/index.28214900.js</key>
+		<key>shopcore.bundle/www/static/js/pages/index.178f91e0.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6908,7 +6908,7 @@
 			7jrggdNi8Zyi0sGVa48t01Rt3FdkKlbD4eQ2oqzWjVs=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/integral.c4b162e0.js</key>
+		<key>shopcore.bundle/www/static/js/pages/integral.2ecd6e3a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6919,7 +6919,7 @@
 			78Io+3XrL24vaAt9l6WGqs9vOxQPm6K5gRA9D1Y9F98=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/invitepay.f5b19c58.js</key>
+		<key>shopcore.bundle/www/static/js/pages/invitepay.ef25076d.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6930,18 +6930,18 @@
 			UMUgY3HUFCnbmKy2uEjh5X6ghEVIamvlaL8iuE2RnzY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/item.50c1600e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/item.2623218e.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/BEZwg/zzyBDRZ2lVsX+xx72wGA=
+			wWKFEpGVzSp9da85xstQVBQ1M78=
 			</data>
 			<key>hash2</key>
 			<data>
-			gLWz78YjRHeUSy6k7XpBz48AcfXQMY3HdcmYFmeIr2U=
+			rsY6KGPnKwMUeIDJN7flIKHXFRtK7MshYp0yOsw1kLs=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/jumpmp.a0cd60b7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/jumpmp.480519b3.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6952,7 +6952,7 @@
 			4gQaC1Yf53wAA66oeL+Bu/D1xSiJQIrBxpiNbYikaJI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/login.676b6b9f.js</key>
+		<key>shopcore.bundle/www/static/js/pages/login.1445480f.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6963,7 +6963,7 @@
 			QX8PV2N/sxnKu5McHkXp5pbXwsF0CXDSTV2WrTNbhMQ=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/logs.cb42d4bb.js</key>
+		<key>shopcore.bundle/www/static/js/pages/logs.22706467.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6974,7 +6974,7 @@
 			8LjKB6YbTu/MQ9A+OIhuBWlqCLR2yrcmKgb/xYDkPdE=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/makeup.76a550f3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/makeup.274fefb9.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6985,7 +6985,7 @@
 			jA017rUve842rW64CK2ofv5jhRjtvpSHNeMRTENIIko=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/membercenter.8444c015.js</key>
+		<key>shopcore.bundle/www/static/js/pages/membercenter.4d50c42d.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6996,7 +6996,7 @@
 			+8JtJvVhQs+jul9w5OHM40QBzEUMG5NX0vWvY12G5QQ=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/membercenterown.818acf03.js</key>
+		<key>shopcore.bundle/www/static/js/pages/membercenterown.a2feee81.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7007,7 +7007,7 @@
 			uCSHNBiODQkd2R9qGuuxT3GKV5e19LSq4wRtwinon7Q=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberchangenumber.078e56ea.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberchangenumber.dac34ee8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7018,7 +7018,7 @@
 			N4nmlWt9uwtqQSf0ORwzopgTI5BcUp71z0DHautk020=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberdatum.dfabfa81.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberdatum.d0a049da.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7029,7 +7029,7 @@
 			K8JQ+cjwgkYVa1Zg+DkTi9LnMFsvzkOwpA6bsgsnj+4=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/membernumber.c7cb6fd2.js</key>
+		<key>shopcore.bundle/www/static/js/pages/membernumber.163843d2.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7040,7 +7040,7 @@
 			/8CfGIXy0HpILsPaAZtrNwZw32A1CImuICKDIWM1VF8=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberperfection.02e7842e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberperfection.bd33fecc.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7051,7 +7051,7 @@
 			tQIAaAVnRmZdc/WkAFErO3dHXvP8aTr1Lx6UzvJiIOQ=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberperfectionown.6a796bfd.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberperfectionown.0c1fa8f1.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7062,7 +7062,7 @@
 			03yCYyFCAlQuGmyzVM63xN7EKyK+DfOUxDqN8skj8qg=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberpoints.d6ee6d2b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberpoints.65670bcd.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7073,7 +7073,7 @@
 			CMuwlzi7a0wkaphOaUezKDKw4dMGgZQK/Kw97E0ceV0=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberpointsrule.650f7b89.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberpointsrule.697ef47b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7084,7 +7084,7 @@
 			yqWCT/7ACKwTkl419oplciryHB/iP5wJ+IkW8vC9XZs=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberprivilege.5f4c6ae3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberprivilege.2b4db157.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7095,7 +7095,7 @@
 			mkWitp6glOBf9lWHMAVi8NjKqaZQb8TrkesWzgVtTNM=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberregistered.0ee18a23.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberregistered.bd65065a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7106,7 +7106,7 @@
 			rM9Jp376wQmR998OPyFlED+8FMGeUeXQaLPCDVffhXw=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/memberrightsown.55526f35.js</key>
+		<key>shopcore.bundle/www/static/js/pages/memberrightsown.f66c1d31.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7117,7 +7117,7 @@
 			KnS4cawQfwgzsVUNRpylAFTd1zE7vwukJRQtKWcan84=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/messagecenter.923b1c53.js</key>
+		<key>shopcore.bundle/www/static/js/pages/messagecenter.53225851.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7128,7 +7128,7 @@
 			pfo8OB6t+9FCpxEIGSzdPwtZljovZg9NPqyaWyrkz/w=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/moneyoff.f668070f.js</key>
+		<key>shopcore.bundle/www/static/js/pages/moneyoff.ad2105a4.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7139,7 +7139,7 @@
 			uTjx1Tp80GF7GVQ9mi+jIGymKNM+VwEhBEnZ2W2PxKI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/mycollection.f8950f1d.js</key>
+		<key>shopcore.bundle/www/static/js/pages/mycollection.e1bbae04.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7150,7 +7150,7 @@
 			tgdTIxK87cxrSgGFEZKWX0g9SYJCQ9SgNvcJ5akpznY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/myevaluate.c135edaa.js</key>
+		<key>shopcore.bundle/www/static/js/pages/myevaluate.1db60395.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7161,7 +7161,7 @@
 			M7leNRd12+pLXy+dRzGboWmsokdsSHnziElpk5CAf/Y=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/myorderdetail.84e6109e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/myorderdetail.de0f273a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7172,7 +7172,7 @@
 			hGwHiyPEVJRaWWNl0t3j+5TVJ7c7bX+wsKLcDPJBT5A=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/myorderlist.d23e6772.js</key>
+		<key>shopcore.bundle/www/static/js/pages/myorderlist.192e0a2b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7183,7 +7183,7 @@
 			kE6kI4YIdsaWQYEknYlBTXZWGag6CWb/8M965lsNV90=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/newmember.afdd7cf6.js</key>
+		<key>shopcore.bundle/www/static/js/pages/newmember.e9631d25.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7194,7 +7194,7 @@
 			TmuCcUGo2Mohr8QLmfolyDcmEVyLfCw5KEp40DzwoyM=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/openaccount.03887673.js</key>
+		<key>shopcore.bundle/www/static/js/pages/openaccount.f8c86b33.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7205,7 +7205,7 @@
 			tMnx7ffrrT0KqO4ywN/DLqbauf29gv1CppZ+qmy4gJ0=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/paycheck.123da52a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/paycheck.26b38818.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7216,7 +7216,7 @@
 			/vZ+7c0/AQMPmJma4xeIJKTNWKPe9P9QrP8gcXXJ7tY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/payorder.dd9ba9b0.js</key>
+		<key>shopcore.bundle/www/static/js/pages/payorder.fd6da96f.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7227,7 +7227,7 @@
 			F5qNL6VAuvB1cZeUmpcR5ylndQLfOm5mzQczNI4vH4c=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/paysuccess.0aab959a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/paysuccess.4eb40143.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7238,7 +7238,7 @@
 			xCAN2SQ6j+hXCF6gpG9pwrlQlzif/AtRqBcjmK0G0Vw=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/presale.4a94fa26.js</key>
+		<key>shopcore.bundle/www/static/js/pages/presale.685a7993.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7249,7 +7249,7 @@
 			tAa5EKocRLYTGBWIlaVy6CP3fgef5aqm91+gx4H1f+w=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/privilege.53c47224.js</key>
+		<key>shopcore.bundle/www/static/js/pages/privilege.3f6ed4f6.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7260,7 +7260,7 @@
 			Nh/8APRUR7x48WiyilRlxJR0faAEUEKtbq/oYwxN6iA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/prodall.4bde43fd.js</key>
+		<key>shopcore.bundle/www/static/js/pages/prodall.0f75df12.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7271,7 +7271,7 @@
 			K9tMZ5Ls0Vy0ymH/W1y/w2UiCARiMZJ5wbNQsEWuzOY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/productcarddev.e6cbf8da.js</key>
+		<key>shopcore.bundle/www/static/js/pages/productcarddev.abd65f02.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7282,7 +7282,7 @@
 			AAOHvGe8R8XLKyuyZ2QCD3OYJl+b7MCzJgZpU4MJSME=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/productnew.25a2aa2b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/productnew.6d96d6b8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7293,7 +7293,7 @@
 			zUjNRrLZ+nWOzexHXHeJF0MQ/8iJk6tHpV4I6fZHQyo=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/producttoplist.1713ca62.js</key>
+		<key>shopcore.bundle/www/static/js/pages/producttoplist.9334ad0b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7304,7 +7304,7 @@
 			RCd76L9WztJblHmgTvj1J8JuszfNXOSVEDB5oMcLEEI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/promotion.d420f8e4.js</key>
+		<key>shopcore.bundle/www/static/js/pages/promotion.82a1ae69.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7315,7 +7315,7 @@
 			sXPqD9ZLyRkRPMtBH0grxMLB55puGNWqUbZjn6QVn7w=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/purchasein.7f941e2c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/purchasein.f2ce5ba9.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7326,7 +7326,7 @@
 			KqOFViBNnEowksAAxxLgZi/2qguidZEzmtyEmFIIXTs=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/purchaseincheck.472b411e.js</key>
+		<key>shopcore.bundle/www/static/js/pages/purchaseincheck.058f4a6f.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7337,7 +7337,7 @@
 			gU6qUCoLNDlETqSW+aG/2PPr/WHwL0x8iDFBxCZWdhk=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/purchaseinlist.93fbebd7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/purchaseinlist.19fac20a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7348,7 +7348,7 @@
 			2tsF73FIabOUl1TA+un/nc8BmKff4atwb2bcvLaAQPo=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/qidianimredirect.af7d8f0a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/qidianimredirect.b0c9ce4d.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7359,7 +7359,7 @@
 			IxT5zXvyQ8gS9UGvRV2qEM/8yYCwje/XlAARWJ5Ypec=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/querybatchno.c139e5e1.js</key>
+		<key>shopcore.bundle/www/static/js/pages/querybatchno.852cd7d1.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7370,7 +7370,7 @@
 			WhZY4l80h1qhyQ6wcYl5DXBPzHvRsbM5Aa9B9ZHRy7E=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/refund.b04b4a2c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refund.ff636dff.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7381,7 +7381,7 @@
 			6pdtEWs/j4wlolnekszkJkb+B9hnAkKNK6HtD714XAU=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/refundaddproduct.1cb76282.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundaddproduct.8d492b1a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7392,7 +7392,7 @@
 			FciG0jIBoqGmMNwwEWIhTGtrnFW92PxokD4BAt6zODY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/refundapply.f3ece844.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundapply.8b129337.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7403,7 +7403,7 @@
 			9CPG7EpMfQiWyIudTQl/mtfV1GNWeolvzQLbZG+L+e0=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/refundlist.a032efa3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundlist.179e8603.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7414,7 +7414,7 @@
 			cF9BfX+cxbYoHuyIvZpazy1v+aWJpUzPej63u7ZXuIE=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/refundlogisticlist.169f7675.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundlogisticlist.1017a34e.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7425,7 +7425,7 @@
 			JFa1bK/6/dZsGxG+tSM8Es0TbV2xdrWHbQmABSW83SY=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/refundservice.1b6e5215.js</key>
+		<key>shopcore.bundle/www/static/js/pages/refundservice.9c3a58ef.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7436,7 +7436,7 @@
 			TDVtPg72aMBb9/m+YOpdi+cMfgoiU1KJ2f7grdVh5oA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/returntax.48c268ac.js</key>
+		<key>shopcore.bundle/www/static/js/pages/returntax.c4860f28.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7447,7 +7447,7 @@
 			PyHXtTVn4eP1PB7VZFaFsdv5Ah/B2m245RgLgJ3BVPw=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/search.00a5abd9.js</key>
+		<key>shopcore.bundle/www/static/js/pages/search.5a8748f0.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7458,7 +7458,7 @@
 			HX0elC7LsRRWkKECiwUWVI2XhwaberbKPswTjlKXF+o=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/selectbrand.d26ac467.js</key>
+		<key>shopcore.bundle/www/static/js/pages/selectbrand.f3ee6ccf.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7469,7 +7469,7 @@
 			BC12AF5t71RnX1emKmd/GRtZm3l9KjrRsFoyWfUdmaI=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/setup.18963584.js</key>
+		<key>shopcore.bundle/www/static/js/pages/setup.21add261.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7480,7 +7480,7 @@
 			s+9SXYbiWMyTEmTfeYg6MEeGJwvXxZGGAwqoF+85xvs=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/shareactivitylist.c77b0897.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shareactivitylist.4148abe7.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7491,7 +7491,7 @@
 			zMNIu6hvhsIylGeM3INtcZnANfONJ75WRXX4ax7tTUw=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/sharecoupon.0fd0fb95.js</key>
+		<key>shopcore.bundle/www/static/js/pages/sharecoupon.87edc65e.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7502,7 +7502,7 @@
 			OQirwrFIOXc2mdqc5ahE7KaNajEJXAaJ0CTC2kV8npk=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/shopfront.0c7459d3.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shopfront.7d0c4537.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7513,7 +7513,7 @@
 			iS1yB4WzOhhcjRrycyg5dpX7VPd/DH8+bbMbtavDGcw=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/shoplist.d028051c.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shoplist.7514621f.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7524,7 +7524,7 @@
 			W/s/BDfe9xMCbo03vvN0Y2B47B+Y5aX4452/fHHKUAA=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/shoppingcart.c85ddf3a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/shoppingcart.8547e86b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7535,7 +7535,7 @@
 			Q1AXrrRWHi6GRvXqaw78WpYbaQ28NAcrdYdZxndyang=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/showactivity.ad264175.js</key>
+		<key>shopcore.bundle/www/static/js/pages/showactivity.f4b7a383.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7546,7 +7546,7 @@
 			TeN2YOApHIqF7Fxx+3dSdsahxPwHsjyrXFdBW4mkTsE=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/showskin.d8c28cd1.js</key>
+		<key>shopcore.bundle/www/static/js/pages/showskin.f8392a9b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7557,7 +7557,7 @@
 			QcL8tgDTxLVE/NNc7fqSzsdIWy0PfVG7D/5vA52SU5c=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/showskindev.6d466a28.js</key>
+		<key>shopcore.bundle/www/static/js/pages/showskindev.4328101a.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7568,7 +7568,7 @@
 			Nby7Vo6U9Hyjj0PBIBUjgxrLQxco0sPmLwzls0bZHtg=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/substitutepay.02fd190b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/substitutepay.5155eda9.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7579,7 +7579,7 @@
 			BjLLARqCs7xfeORUPo/iVJZ1N34nz6S89+4lyPpLq1w=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/substitutesignup.65be22c9.js</key>
+		<key>shopcore.bundle/www/static/js/pages/substitutesignup.d2164c0d.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7590,7 +7590,7 @@
 			GNb5QSWm92H1fI7gN3Ht1RSDLv16UMGXn1+fVrGNE1k=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/swap.d614fcd9.js</key>
+		<key>shopcore.bundle/www/static/js/pages/swap.2a27c204.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7601,7 +7601,7 @@
 			WzuntH4DVa0sKt0vg5FJy1BINasBIICkYVUKeW5IE40=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/switchlanguage.209e0c4a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/switchlanguage.b95994e8.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7612,7 +7612,7 @@
 			yIWHG831FQd/l9biWWj8zVqObvfqFwN4TTb/LZgGwkE=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/transfer.13152388.js</key>
+		<key>shopcore.bundle/www/static/js/pages/transfer.26be7704.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7623,7 +7623,7 @@
 			ybu4rPuw240YSpNfVd6qFBuvAVDwd2OC2gh+79Hw9qM=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/uploadidcard.5af4e38b.js</key>
+		<key>shopcore.bundle/www/static/js/pages/uploadidcard.631a7ab5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7634,7 +7634,7 @@
 			3dIEoAnTRO99LD3K7i4x6Hh4pJXgbra8TwTJIeKWfxw=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/usercenter.7ff8bf81.js</key>
+		<key>shopcore.bundle/www/static/js/pages/usercenter.e80f2063.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7645,7 +7645,7 @@
 			aM2ZICQNn+IVWBUbF2wWlLFTjS60SmcEGHda1SQ3MhU=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/usercenterdev.01fa6145.js</key>
+		<key>shopcore.bundle/www/static/js/pages/usercenterdev.df95a958.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7656,7 +7656,7 @@
 			HGL7Q5aLdXLGr84apuzMDiA8LqspE9SAogChhan2WWg=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/userinfo.3b3fe2c7.js</key>
+		<key>shopcore.bundle/www/static/js/pages/userinfo.b980e0fa.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -7667,7 +7667,7 @@
 			EKlofLA7kRwLVJq3Y8aHIVu+7qpRuvjDSBhz8+bJejE=
 			</data>
 		</dict>
-		<key>shopcore.bundle/www/static/js/pages/vipcoupons.d0b7334a.js</key>
+		<key>shopcore.bundle/www/static/js/pages/vipcoupons.5513842c.js</key>
 		<dict>
 			<key>hash</key>
 			<data>

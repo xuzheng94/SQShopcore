@@ -320,6 +320,14 @@ JsBridge.prototype.isAlipaySandboxAppInstalled = function(obj) {
         obj && obj.fail && obj.fail(err)
     }, 'JsBridge', 'isAlipaySandboxAppInstalled', [obj]);
 }
+JsBridge.prototype.getHostStore = function(obj) {
+    exec(res=>{
+        obj && obj.success && obj.success(res)
+    }, err => {
+        obj && obj.fail && obj.fail(err)
+    }, 'JsBridge', 'getHostStore', [obj]);
+}
+
     
 JsBridge.prototype.setPrivacyStatus = function(obj) {
     exec(res=>{
