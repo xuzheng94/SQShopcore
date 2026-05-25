@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "Shopcore"   
-    s.version          = "1.9.0"    
+    s.version          = "2.0.0"    
     s.summary          = "shop"  
     s.description  = "Easily integrate a shop"
     s.homepage         = "https://www.shop2cn.cn"
@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/xuzheng94/SQShopcore.git", :tag => s.version }                          
     s.frameworks = "UIKit"
     s.vendored_frameworks = "shopcore.xcframework"
-    s.dependency "Shopcore-Cordova-iOS", '~>1.3.10'
+    s.dependency "Shopcore-Cordova-iOS", '~>2.0.0'
     s.requires_arc = true
-    s.ios.deployment_target = "10.0"
-    s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-    s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+    s.ios.deployment_target = "12.0"
+    # s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+    # s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   end
