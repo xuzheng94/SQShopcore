@@ -92,7 +92,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// 获取业务请求头
 + (NSDictionary *)getBusinessRequestHeader;
 
-/// 获取sdk版本号 2.0.0
+/// 获取sdk版本号 2.1.0
 + (NSString *)getVersion;
 
 /**
